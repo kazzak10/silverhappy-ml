@@ -1,0 +1,901 @@
+id_senior,age_senior,genre_senior,ville_senior,anciennete_senior_j,type_abonnement,nb_connexions_senior,nb_interventions,note_moy_donnee,categorie_service,genre_enc,ville_enc,abo_enc,target_enc,anciennete_mois,age_group
+1,64,Masculin,Paris,183,annuel,62,6,4.6,Sport & Loisirs,1,4,0,4,6,0
+2,85,Féminin,Lyon,614,mensuel,9,12,4.6,Santé & Bien-être,0,1,1,3,20,4
+3,66,Masculin,Paris,116,annuel,53,13,4.6,Loisirs & Culture,1,4,0,1,4,1
+4,79,Masculin,Marseille,545,annuel,18,9,3.8,Aide Administrative,1,2,0,0,18,3
+5,68,Féminin,Bordeaux,298,annuel,76,10,3.8,Sport & Loisirs,0,0,0,4,10,1
+6,80,Masculin,Paris,35,mensuel,11,6,4.6,Aide Administrative,1,4,1,0,1,3
+7,71,Féminin,Paris,30,mensuel,49,3,3.9,Loisirs & Culture,0,4,1,1,1,2
+8,63,Masculin,Paris,315,annuel,59,3,3.3,Sport & Loisirs,1,4,0,4,10,0
+9,66,Masculin,Paris,793,annuel,66,2,4.3,Sport & Loisirs,1,4,0,4,26,1
+10,62,Masculin,Paris,852,annuel,53,3,4.1,Sport & Loisirs,1,4,0,4,28,0
+11,68,Masculin,Nice,1363,annuel,51,13,3.4,Sport & Loisirs,1,3,0,4,45,1
+12,76,Féminin,Marseille,739,annuel,16,1,4.4,Ménage,0,2,0,2,25,3
+13,84,Féminin,Paris,129,annuel,11,1,3.7,Santé & Bien-être,0,4,0,3,4,4
+14,63,Féminin,Marseille,1162,annuel,56,5,3.2,Sport & Loisirs,0,2,0,4,39,0
+15,75,Féminin,Paris,561,mensuel,14,2,4.0,Aide Administrative,0,4,1,0,19,2
+16,80,Masculin,Bordeaux,1242,mensuel,18,8,4.3,Aide Administrative,1,0,1,0,41,3
+17,63,Masculin,Paris,43,mensuel,72,6,4.3,Sport & Loisirs,1,4,1,4,1,0
+18,77,Féminin,Toulouse,454,mensuel,36,3,3.7,Ménage,0,5,1,2,15,3
+19,76,Masculin,Bordeaux,404,mensuel,27,12,4.0,Ménage,1,0,1,2,13,3
+20,60,Féminin,Toulouse,134,annuel,71,1,3.2,Sport & Loisirs,0,5,0,4,4,0
+21,64,Féminin,Paris,1301,annuel,46,9,4.4,Loisirs & Culture,0,4,0,1,43,0
+22,89,Masculin,Paris,976,annuel,9,3,3.6,Santé & Bien-être,1,4,0,3,33,5
+23,80,Masculin,Paris,668,mensuel,12,13,3.7,Aide Administrative,1,4,1,0,22,3
+24,67,Féminin,Marseille,466,mensuel,45,3,3.8,Loisirs & Culture,0,2,1,1,16,1
+25,80,Féminin,Paris,1253,annuel,2,3,4.1,Aide Administrative,0,4,0,0,42,3
+26,72,Féminin,Bordeaux,1153,annuel,42,13,3.3,Ménage,0,0,0,2,38,2
+27,65,Masculin,Lyon,576,annuel,61,1,5.0,Sport & Loisirs,1,1,0,4,19,0
+28,85,Féminin,Paris,425,mensuel,2,7,3.9,Santé & Bien-être,0,4,1,3,14,4
+29,80,Féminin,Paris,54,mensuel,6,2,3.9,Aide Administrative,0,4,1,0,2,3
+30,79,Féminin,Marseille,45,mensuel,18,5,4.0,Ménage,0,2,1,2,2,3
+31,65,Féminin,Paris,279,annuel,44,5,4.2,Loisirs & Culture,0,4,0,1,9,0
+32,82,Féminin,Bordeaux,258,annuel,12,7,3.9,Santé & Bien-être,0,0,0,3,9,4
+33,69,Masculin,Toulouse,848,annuel,43,7,4.8,Loisirs & Culture,1,5,0,1,28,1
+34,75,Masculin,Toulouse,1473,annuel,31,13,4.8,Ménage,1,5,0,2,49,2
+35,80,Féminin,Paris,258,annuel,14,13,4.1,Aide Administrative,0,4,0,0,9,3
+36,78,Féminin,Lyon,1478,mensuel,9,2,4.5,Aide Administrative,0,1,1,0,49,3
+37,61,Féminin,Bordeaux,292,annuel,64,10,5.0,Sport & Loisirs,0,0,0,4,10,0
+38,77,Masculin,Marseille,1122,mensuel,10,4,4.7,Aide Administrative,1,2,1,0,37,3
+39,72,Féminin,Lyon,645,mensuel,10,8,4.3,Ménage,0,1,1,2,22,2
+40,62,Féminin,Paris,482,mensuel,42,9,3.5,Loisirs & Culture,0,4,1,1,16,0
+41,61,Masculin,Paris,705,annuel,55,10,3.6,Sport & Loisirs,1,4,0,4,24,0
+42,67,Féminin,Paris,331,annuel,30,7,3.5,Loisirs & Culture,0,4,0,1,11,1
+43,73,Féminin,Marseille,680,annuel,34,5,4.1,Ménage,0,2,0,2,23,2
+44,84,Masculin,Paris,950,mensuel,15,8,4.6,Santé & Bien-être,1,4,1,3,32,4
+45,81,Féminin,Marseille,870,mensuel,9,10,3.8,Aide Administrative,0,2,1,0,29,4
+46,82,Féminin,Paris,1122,mensuel,26,7,4.7,Aide Administrative,0,4,1,0,37,4
+47,67,Féminin,Marseille,1482,mensuel,20,8,4.2,Loisirs & Culture,0,2,1,1,49,1
+48,73,Féminin,Paris,945,annuel,31,11,3.8,Ménage,0,4,0,2,32,2
+49,73,Masculin,Marseille,686,annuel,32,14,4.8,Ménage,1,2,0,2,23,2
+50,85,Masculin,Marseille,1087,mensuel,15,10,4.0,Santé & Bien-être,1,2,1,3,36,4
+51,69,Féminin,Nice,954,mensuel,15,11,4.6,Ménage,0,3,1,2,32,1
+52,74,Féminin,Lyon,1267,mensuel,30,8,3.3,Ménage,0,1,1,2,42,2
+53,81,Féminin,Lyon,1467,annuel,10,13,3.4,Aide Administrative,0,1,0,0,49,4
+54,65,Masculin,Paris,1100,mensuel,53,9,4.4,Loisirs & Culture,1,4,1,1,37,0
+55,64,Féminin,Marseille,565,mensuel,50,10,3.9,Loisirs & Culture,0,2,1,1,19,0
+56,65,Féminin,Paris,790,annuel,35,11,4.7,Loisirs & Culture,0,4,0,1,26,0
+57,66,Masculin,Paris,1195,mensuel,52,2,3.7,Sport & Loisirs,1,4,1,4,40,1
+58,72,Féminin,Nice,1492,mensuel,17,13,4.9,Ménage,0,3,1,2,50,2
+59,66,Féminin,Paris,1431,mensuel,38,9,4.9,Loisirs & Culture,0,4,1,1,48,1
+60,83,Masculin,Paris,464,mensuel,36,7,3.6,Aide Administrative,1,4,1,0,15,4
+61,62,Féminin,Marseille,551,annuel,68,4,3.3,Sport & Loisirs,0,2,0,4,18,0
+62,74,Masculin,Paris,1336,mensuel,21,6,3.8,Ménage,1,4,1,2,45,2
+63,79,Féminin,Marseille,1074,mensuel,26,12,4.3,Aide Administrative,0,2,1,0,36,3
+64,75,Féminin,Nice,42,mensuel,30,5,4.7,Ménage,0,3,1,2,1,2
+65,71,Masculin,Lyon,371,annuel,60,7,3.9,Loisirs & Culture,1,1,0,1,12,2
+66,64,Féminin,Bordeaux,341,annuel,56,13,3.7,Loisirs & Culture,0,0,0,1,11,0
+67,76,Féminin,Paris,1274,mensuel,16,13,3.5,Aide Administrative,0,4,1,0,42,3
+68,77,Féminin,Paris,310,mensuel,31,4,3.9,Ménage,0,4,1,2,10,3
+69,66,Féminin,Paris,170,annuel,45,5,4.7,Loisirs & Culture,0,4,0,1,6,1
+70,72,Féminin,Paris,1203,annuel,30,13,4.0,Ménage,0,4,0,2,40,2
+71,86,Féminin,Lyon,108,annuel,19,13,3.5,Aide Administrative,0,1,0,0,4,5
+72,80,Féminin,Paris,1408,mensuel,15,3,4.3,Aide Administrative,0,4,1,0,47,3
+73,86,Féminin,Marseille,195,mensuel,12,13,4.9,Santé & Bien-être,0,2,1,3,6,5
+74,60,Féminin,Marseille,826,mensuel,35,14,3.9,Loisirs & Culture,0,2,1,1,28,0
+75,62,Féminin,Toulouse,1292,annuel,33,14,4.0,Sport & Loisirs,0,5,0,4,43,0
+76,90,Masculin,Toulouse,194,mensuel,6,14,4.1,Santé & Bien-être,1,5,1,3,6,5
+77,70,Féminin,Marseille,340,mensuel,32,2,5.0,Ménage,0,2,1,2,11,1
+78,71,Féminin,Nice,1388,annuel,30,6,4.8,Ménage,0,3,0,2,46,2
+79,61,Féminin,Lyon,1462,annuel,65,6,4.0,Sport & Loisirs,0,1,0,4,49,0
+80,80,Masculin,Bordeaux,927,mensuel,5,12,4.2,Aide Administrative,1,0,1,0,31,3
+81,76,Masculin,Bordeaux,910,annuel,32,1,4.4,Ménage,1,0,0,2,30,3
+82,64,Féminin,Paris,666,mensuel,69,13,4.0,Sport & Loisirs,0,4,1,4,22,0
+83,71,Masculin,Marseille,965,annuel,20,4,4.2,Ménage,1,2,0,2,32,2
+84,64,Féminin,Paris,1172,annuel,56,6,4.7,Sport & Loisirs,0,4,0,4,39,0
+85,81,Féminin,Bordeaux,1345,annuel,24,12,3.6,Santé & Bien-être,0,0,0,3,45,4
+86,85,Féminin,Paris,500,mensuel,12,13,4.9,Santé & Bien-être,0,4,1,3,17,4
+87,74,Féminin,Bordeaux,592,mensuel,17,9,4.0,Ménage,0,0,1,2,20,2
+88,71,Masculin,Paris,1431,annuel,37,4,4.7,Ménage,1,4,0,2,48,2
+89,67,Féminin,Bordeaux,511,mensuel,48,2,4.1,Loisirs & Culture,0,0,1,1,17,1
+90,82,Féminin,Marseille,721,annuel,10,1,4.9,Aide Administrative,0,2,0,0,24,4
+91,80,Masculin,Paris,1366,annuel,18,6,4.1,Ménage,1,4,0,2,46,3
+92,77,Féminin,Paris,388,mensuel,19,9,4.5,Aide Administrative,0,4,1,0,13,3
+93,86,Féminin,Paris,634,annuel,10,11,3.8,Santé & Bien-être,0,4,0,3,21,5
+94,85,Féminin,Bordeaux,473,mensuel,7,6,3.6,Santé & Bien-être,0,0,1,3,16,4
+95,86,Masculin,Paris,1261,annuel,15,8,4.6,Santé & Bien-être,1,4,0,3,42,5
+96,77,Féminin,Paris,129,mensuel,38,2,4.8,Ménage,0,4,1,2,4,3
+97,68,Féminin,Bordeaux,929,mensuel,46,8,3.9,Sport & Loisirs,0,0,1,4,31,1
+98,65,Féminin,Paris,523,mensuel,46,12,4.2,Loisirs & Culture,0,4,1,1,17,0
+99,77,Masculin,Marseille,456,mensuel,27,9,3.3,Aide Administrative,1,2,1,0,15,3
+100,84,Féminin,Paris,915,mensuel,5,13,3.3,Santé & Bien-être,0,4,1,3,30,4
+101,79,Féminin,Paris,510,mensuel,2,9,3.4,Aide Administrative,0,4,1,0,17,3
+102,73,Masculin,Toulouse,324,mensuel,42,12,4.8,Ménage,1,5,1,2,11,2
+103,75,Féminin,Paris,312,annuel,27,8,4.8,Ménage,0,4,0,2,10,2
+104,69,Masculin,Paris,606,mensuel,39,9,4.7,Loisirs & Culture,1,4,1,1,20,1
+105,81,Féminin,Toulouse,922,mensuel,11,1,4.6,Santé & Bien-être,0,5,1,3,31,4
+106,66,Masculin,Marseille,732,annuel,56,7,3.5,Loisirs & Culture,1,2,0,1,24,1
+107,79,Féminin,Lyon,365,annuel,15,10,3.3,Aide Administrative,0,1,0,0,12,3
+108,70,Féminin,Nice,292,annuel,29,3,4.0,Loisirs & Culture,0,3,0,1,10,1
+109,83,Féminin,Paris,1284,mensuel,18,14,5.0,Santé & Bien-être,0,4,1,3,43,4
+110,67,Féminin,Marseille,971,annuel,41,5,4.8,Loisirs & Culture,0,2,0,1,32,1
+111,87,Féminin,Nice,1159,mensuel,6,1,4.1,Santé & Bien-être,0,3,1,3,39,5
+112,85,Féminin,Paris,1224,annuel,22,6,4.1,Santé & Bien-être,0,4,0,3,41,4
+113,84,Masculin,Toulouse,848,annuel,15,3,4.3,Santé & Bien-être,1,5,0,3,28,4
+114,73,Féminin,Paris,166,mensuel,16,8,4.3,Ménage,0,4,1,2,6,2
+115,86,Féminin,Lyon,541,mensuel,14,12,3.8,Santé & Bien-être,0,1,1,3,18,5
+116,72,Féminin,Paris,1465,mensuel,32,6,4.7,Ménage,0,4,1,2,49,2
+117,89,Féminin,Toulouse,958,annuel,17,3,4.7,Santé & Bien-être,0,5,0,3,32,5
+118,85,Masculin,Paris,1100,mensuel,13,2,3.8,Santé & Bien-être,1,4,1,3,37,4
+119,64,Masculin,Paris,1092,mensuel,34,6,3.8,Sport & Loisirs,1,4,1,4,36,0
+120,86,Féminin,Lyon,1192,annuel,14,5,3.7,Santé & Bien-être,0,1,0,3,40,5
+121,69,Masculin,Paris,1257,annuel,63,8,4.5,Loisirs & Culture,1,4,0,1,42,1
+122,66,Féminin,Paris,1315,annuel,29,2,3.9,Loisirs & Culture,0,4,0,1,44,1
+123,63,Féminin,Paris,1453,annuel,28,4,4.1,Loisirs & Culture,0,4,0,1,48,0
+124,73,Masculin,Paris,530,mensuel,38,6,3.2,Ménage,1,4,1,2,18,2
+125,84,Masculin,Nice,888,annuel,10,13,4.0,Santé & Bien-être,1,3,0,3,30,4
+126,63,Féminin,Marseille,553,mensuel,57,2,3.4,Sport & Loisirs,0,2,1,4,18,0
+127,67,Féminin,Paris,639,annuel,67,5,3.5,Loisirs & Culture,0,4,0,1,21,1
+128,86,Féminin,Toulouse,923,mensuel,8,6,4.5,Santé & Bien-être,0,5,1,3,31,5
+129,74,Féminin,Marseille,1421,annuel,22,7,4.4,Ménage,0,2,0,2,47,2
+130,64,Masculin,Marseille,879,annuel,80,8,4.8,Sport & Loisirs,1,2,0,4,29,0
+131,81,Masculin,Paris,163,annuel,38,13,4.5,Aide Administrative,1,4,0,0,5,4
+132,85,Féminin,Nice,391,annuel,6,1,4.1,Santé & Bien-être,0,3,0,3,13,4
+133,77,Féminin,Paris,862,mensuel,24,1,3.5,Ménage,0,4,1,2,29,3
+134,60,Masculin,Paris,419,annuel,64,5,4.3,Sport & Loisirs,1,4,0,4,14,0
+135,82,Féminin,Bordeaux,349,mensuel,13,6,4.4,Santé & Bien-être,0,0,1,3,12,4
+136,67,Masculin,Toulouse,511,annuel,70,1,3.2,Loisirs & Culture,1,5,0,1,17,1
+137,81,Féminin,Marseille,604,annuel,14,9,3.8,Aide Administrative,0,2,0,0,20,4
+138,84,Féminin,Nice,1191,mensuel,15,9,4.7,Santé & Bien-être,0,3,1,3,40,4
+139,75,Féminin,Paris,1196,annuel,22,14,4.3,Ménage,0,4,0,2,40,2
+140,64,Masculin,Nice,148,mensuel,39,2,3.8,Loisirs & Culture,1,3,1,1,5,0
+141,73,Féminin,Paris,944,annuel,45,14,3.5,Loisirs & Culture,0,4,0,1,31,2
+142,67,Masculin,Nice,1429,annuel,57,5,4.9,Sport & Loisirs,1,3,0,4,48,1
+143,80,Féminin,Paris,854,mensuel,5,12,3.6,Aide Administrative,0,4,1,0,28,3
+144,68,Masculin,Bordeaux,588,mensuel,37,13,4.1,Loisirs & Culture,1,0,1,1,20,1
+145,83,Féminin,Paris,69,mensuel,30,13,3.2,Aide Administrative,0,4,1,0,2,4
+146,67,Masculin,Paris,959,mensuel,40,14,4.5,Loisirs & Culture,1,4,1,1,32,1
+147,85,Masculin,Nice,1130,mensuel,6,12,4.6,Santé & Bien-être,1,3,1,3,38,4
+148,61,Féminin,Bordeaux,172,mensuel,55,7,4.4,Sport & Loisirs,0,0,1,4,6,0
+149,76,Masculin,Lyon,46,mensuel,6,1,3.6,Ménage,1,1,1,2,2,3
+150,64,Féminin,Marseille,655,annuel,58,6,3.8,Sport & Loisirs,0,2,0,4,22,0
+151,60,Féminin,Bordeaux,1090,annuel,55,1,4.2,Sport & Loisirs,0,0,0,4,36,0
+152,82,Masculin,Lyon,336,mensuel,24,6,5.0,Aide Administrative,1,1,1,0,11,4
+153,75,Féminin,Marseille,416,annuel,32,1,3.7,Ménage,0,2,0,2,14,2
+154,75,Féminin,Paris,1040,mensuel,24,6,4.8,Ménage,0,4,1,2,35,2
+155,76,Féminin,Toulouse,519,annuel,13,6,4.6,Ménage,0,5,0,2,17,3
+156,61,Féminin,Marseille,1194,annuel,56,3,3.6,Sport & Loisirs,0,2,0,4,40,0
+157,63,Féminin,Marseille,1104,mensuel,68,5,3.8,Sport & Loisirs,0,2,1,4,37,0
+158,71,Féminin,Nice,126,mensuel,14,13,3.9,Ménage,0,3,1,2,4,2
+159,64,Masculin,Paris,392,mensuel,51,10,3.9,Loisirs & Culture,1,4,1,1,13,0
+160,61,Masculin,Bordeaux,57,mensuel,41,9,4.7,Sport & Loisirs,1,0,1,4,2,0
+161,68,Féminin,Paris,176,annuel,45,12,4.1,Loisirs & Culture,0,4,0,1,6,1
+162,78,Féminin,Bordeaux,393,mensuel,33,2,3.3,Aide Administrative,0,0,1,0,13,3
+163,85,Féminin,Nice,809,mensuel,21,14,4.6,Aide Administrative,0,3,1,0,27,4
+164,73,Féminin,Paris,1305,annuel,33,11,5.0,Ménage,0,4,0,2,44,2
+165,71,Masculin,Marseille,654,mensuel,25,12,4.5,Ménage,1,2,1,2,22,2
+166,79,Féminin,Marseille,1185,annuel,44,8,3.9,Ménage,0,2,0,2,40,3
+167,62,Féminin,Paris,1441,annuel,57,6,3.6,Sport & Loisirs,0,4,0,4,48,0
+168,65,Masculin,Nice,1197,annuel,79,13,4.9,Sport & Loisirs,1,3,0,4,40,0
+169,80,Féminin,Paris,540,annuel,5,8,4.1,Aide Administrative,0,4,0,0,18,3
+170,74,Féminin,Lyon,1481,annuel,13,12,3.9,Ménage,0,1,0,2,49,2
+171,61,Féminin,Toulouse,1003,annuel,80,12,4.7,Loisirs & Culture,0,5,0,1,33,0
+172,74,Féminin,Lyon,1009,mensuel,34,14,4.9,Ménage,0,1,1,2,34,2
+173,65,Masculin,Toulouse,1342,annuel,68,7,4.2,Sport & Loisirs,1,5,0,4,45,0
+174,68,Féminin,Toulouse,199,annuel,14,9,4.1,Ménage,0,5,0,2,7,1
+175,81,Féminin,Bordeaux,1396,mensuel,24,6,3.4,Aide Administrative,0,0,1,0,47,4
+176,86,Féminin,Bordeaux,1032,mensuel,2,6,3.9,Santé & Bien-être,0,0,1,3,34,5
+177,76,Masculin,Bordeaux,948,mensuel,9,13,4.3,Aide Administrative,1,0,1,0,32,3
+178,82,Masculin,Paris,1280,mensuel,2,2,4.0,Santé & Bien-être,1,4,1,3,43,4
+179,65,Féminin,Toulouse,83,annuel,47,8,4.7,Sport & Loisirs,0,5,0,4,3,0
+180,68,Féminin,Marseille,1422,annuel,51,10,3.7,Sport & Loisirs,0,2,0,4,47,1
+181,60,Masculin,Paris,834,annuel,68,8,3.7,Sport & Loisirs,1,4,0,4,28,0
+182,64,Féminin,Marseille,1499,annuel,54,4,4.3,Loisirs & Culture,0,2,0,1,50,0
+183,66,Féminin,Paris,1063,annuel,39,14,4.3,Loisirs & Culture,0,4,0,1,35,1
+184,83,Masculin,Lyon,1221,mensuel,28,11,4.1,Aide Administrative,1,1,1,0,41,4
+185,70,Féminin,Toulouse,1491,annuel,39,4,4.4,Loisirs & Culture,0,5,0,1,50,1
+186,79,Masculin,Paris,514,mensuel,16,13,3.6,Aide Administrative,1,4,1,0,17,3
+187,63,Féminin,Paris,743,annuel,57,11,4.8,Sport & Loisirs,0,4,0,4,25,0
+188,69,Féminin,Bordeaux,1357,annuel,41,3,4.1,Loisirs & Culture,0,0,0,1,45,1
+189,66,Masculin,Paris,791,mensuel,64,14,4.4,Loisirs & Culture,1,4,1,1,26,1
+190,64,Féminin,Nice,56,annuel,58,14,4.4,Sport & Loisirs,0,3,0,4,2,0
+191,67,Féminin,Bordeaux,983,annuel,62,13,4.7,Sport & Loisirs,0,0,0,4,33,1
+192,72,Masculin,Bordeaux,392,annuel,19,1,4.0,Ménage,1,0,0,2,13,2
+193,81,Féminin,Paris,715,annuel,19,10,3.6,Aide Administrative,0,4,0,0,24,4
+194,87,Féminin,Paris,491,mensuel,9,12,4.9,Santé & Bien-être,0,4,1,3,16,5
+195,74,Masculin,Toulouse,145,mensuel,33,5,3.8,Ménage,1,5,1,2,5,2
+196,62,Masculin,Paris,1056,annuel,59,14,4.5,Sport & Loisirs,1,4,0,4,35,0
+197,78,Féminin,Marseille,582,mensuel,9,14,4.7,Aide Administrative,0,2,1,0,19,3
+198,74,Féminin,Marseille,729,mensuel,34,5,4.5,Ménage,0,2,1,2,24,2
+199,91,Féminin,Paris,1338,mensuel,21,4,4.6,Santé & Bien-être,0,4,1,3,45,5
+200,71,Masculin,Lyon,872,annuel,13,11,4.9,Ménage,1,1,0,2,29,2
+201,83,Féminin,Lyon,1368,annuel,15,10,3.7,Santé & Bien-être,0,1,0,3,46,4
+202,79,Féminin,Paris,1497,mensuel,9,12,4.4,Aide Administrative,0,4,1,0,50,3
+203,81,Féminin,Lyon,1455,mensuel,26,11,3.9,Aide Administrative,0,1,1,0,48,4
+204,64,Féminin,Paris,972,annuel,63,8,4.5,Loisirs & Culture,0,4,0,1,32,0
+205,82,Masculin,Toulouse,508,mensuel,13,10,4.0,Aide Administrative,1,5,1,0,17,4
+206,69,Féminin,Paris,735,annuel,24,6,4.3,Ménage,0,4,0,2,24,1
+207,75,Masculin,Paris,34,mensuel,34,9,4.0,Ménage,1,4,1,2,1,2
+208,86,Féminin,Marseille,1202,annuel,6,5,4.7,Santé & Bien-être,0,2,0,3,40,5
+209,85,Féminin,Bordeaux,504,mensuel,12,14,4.6,Santé & Bien-être,0,0,1,3,17,4
+210,82,Féminin,Paris,1092,annuel,18,3,4.6,Aide Administrative,0,4,0,0,36,4
+211,74,Féminin,Paris,1378,annuel,25,9,4.5,Ménage,0,4,0,2,46,2
+212,72,Masculin,Marseille,761,annuel,20,4,4.0,Ménage,1,2,0,2,25,2
+213,76,Masculin,Paris,351,mensuel,15,11,3.7,Ménage,1,4,1,2,12,3
+214,81,Masculin,Bordeaux,863,annuel,23,5,4.3,Aide Administrative,1,0,0,0,29,4
+215,74,Masculin,Lyon,1031,annuel,2,4,4.6,Ménage,1,1,0,2,34,2
+216,74,Féminin,Paris,954,mensuel,26,10,4.9,Ménage,0,4,1,2,32,2
+217,76,Féminin,Nice,1097,mensuel,23,2,3.6,Ménage,0,3,1,2,37,3
+218,65,Féminin,Lyon,556,annuel,52,10,3.5,Loisirs & Culture,0,1,0,1,19,0
+219,64,Féminin,Nice,749,annuel,39,5,4.3,Sport & Loisirs,0,3,0,4,25,0
+220,71,Féminin,Toulouse,1126,annuel,42,4,3.6,Ménage,0,5,0,2,38,2
+221,63,Féminin,Paris,1183,annuel,69,4,4.4,Sport & Loisirs,0,4,0,4,39,0
+222,76,Féminin,Bordeaux,1002,annuel,47,3,3.2,Ménage,0,0,0,2,33,3
+223,76,Féminin,Bordeaux,924,annuel,18,13,3.5,Ménage,0,0,0,2,31,3
+224,60,Féminin,Nice,425,annuel,72,8,4.1,Sport & Loisirs,0,3,0,4,14,0
+225,66,Féminin,Marseille,1429,annuel,56,11,3.2,Loisirs & Culture,0,2,0,1,48,1
+226,80,Féminin,Lyon,245,mensuel,15,13,3.8,Aide Administrative,0,1,1,0,8,3
+227,75,Féminin,Paris,230,annuel,15,9,3.7,Ménage,0,4,0,2,8,2
+228,85,Féminin,Marseille,94,mensuel,12,14,4.0,Santé & Bien-être,0,2,1,3,3,4
+229,70,Féminin,Lyon,814,annuel,29,4,4.3,Ménage,0,1,0,2,27,1
+230,67,Féminin,Paris,1354,annuel,56,12,4.7,Loisirs & Culture,0,4,0,1,45,1
+231,75,Féminin,Paris,1287,annuel,19,14,3.5,Ménage,0,4,0,2,43,2
+232,83,Féminin,Paris,1073,annuel,5,2,3.4,Santé & Bien-être,0,4,0,3,36,4
+233,65,Masculin,Lyon,193,annuel,34,11,4.8,Loisirs & Culture,1,1,0,1,6,0
+234,63,Féminin,Paris,729,annuel,53,14,3.4,Sport & Loisirs,0,4,0,4,24,0
+235,69,Féminin,Paris,529,mensuel,60,2,3.5,Loisirs & Culture,0,4,1,1,18,1
+236,75,Masculin,Paris,1309,annuel,16,9,3.5,Ménage,1,4,0,2,44,2
+237,76,Féminin,Lyon,1217,mensuel,26,10,4.2,Ménage,0,1,1,2,41,3
+238,64,Masculin,Toulouse,464,annuel,57,6,3.7,Loisirs & Culture,1,5,0,1,15,0
+239,61,Féminin,Paris,1014,annuel,80,5,3.5,Sport & Loisirs,0,4,0,4,34,0
+240,76,Féminin,Toulouse,1392,annuel,39,2,4.0,Ménage,0,5,0,2,46,3
+241,86,Féminin,Bordeaux,352,mensuel,25,3,3.9,Santé & Bien-être,0,0,1,3,12,5
+242,80,Féminin,Paris,1261,annuel,7,8,4.0,Aide Administrative,0,4,0,0,42,3
+243,64,Féminin,Lyon,1268,annuel,57,14,3.7,Loisirs & Culture,0,1,0,1,42,0
+244,76,Féminin,Marseille,1231,mensuel,36,10,4.0,Ménage,0,2,1,2,41,3
+245,67,Féminin,Paris,1015,annuel,72,14,4.2,Loisirs & Culture,0,4,0,1,34,1
+246,73,Masculin,Paris,434,annuel,27,5,4.3,Ménage,1,4,0,2,14,2
+247,70,Masculin,Bordeaux,1434,mensuel,46,10,3.6,Ménage,1,0,1,2,48,1
+248,70,Féminin,Paris,1017,mensuel,44,7,4.5,Ménage,0,4,1,2,34,1
+249,89,Masculin,Lyon,1129,mensuel,18,10,3.8,Santé & Bien-être,1,1,1,3,38,5
+250,79,Féminin,Paris,1019,annuel,9,8,3.6,Ménage,0,4,0,2,34,3
+251,76,Féminin,Toulouse,1078,annuel,24,3,3.7,Aide Administrative,0,5,0,0,36,3
+252,83,Masculin,Lyon,585,annuel,11,14,3.2,Aide Administrative,1,1,0,0,20,4
+253,75,Féminin,Marseille,318,annuel,8,2,3.4,Aide Administrative,0,2,0,0,11,2
+254,66,Féminin,Toulouse,1042,annuel,45,6,3.5,Loisirs & Culture,0,5,0,1,35,1
+255,87,Masculin,Toulouse,145,mensuel,15,6,4.3,Santé & Bien-être,1,5,1,3,5,5
+256,61,Masculin,Lyon,243,mensuel,46,14,3.5,Sport & Loisirs,1,1,1,4,8,0
+257,61,Féminin,Nice,790,mensuel,63,7,3.2,Sport & Loisirs,0,3,1,4,26,0
+258,64,Féminin,Nice,1453,annuel,38,10,4.7,Loisirs & Culture,0,3,0,1,48,0
+259,79,Masculin,Nice,900,annuel,16,7,4.1,Aide Administrative,1,3,0,0,30,3
+260,84,Masculin,Paris,644,annuel,10,11,4.8,Santé & Bien-être,1,4,0,3,21,4
+261,73,Masculin,Toulouse,1036,annuel,24,7,4.7,Ménage,1,5,0,2,35,2
+262,76,Féminin,Bordeaux,493,annuel,29,3,3.6,Ménage,0,0,0,2,16,3
+263,65,Féminin,Toulouse,1224,annuel,37,7,3.9,Sport & Loisirs,0,5,0,4,41,0
+264,80,Féminin,Bordeaux,668,annuel,50,1,4.3,Ménage,0,0,0,2,22,3
+265,81,Féminin,Lyon,1107,mensuel,10,1,4.1,Aide Administrative,0,1,1,0,37,4
+266,72,Féminin,Paris,1369,mensuel,36,14,4.4,Ménage,0,4,1,2,46,2
+267,76,Féminin,Paris,506,mensuel,18,13,4.4,Aide Administrative,0,4,1,0,17,3
+268,79,Féminin,Toulouse,1408,annuel,26,4,4.9,Aide Administrative,0,5,0,0,47,3
+269,87,Masculin,Lyon,839,annuel,14,4,4.3,Santé & Bien-être,1,1,0,3,28,5
+270,66,Féminin,Paris,172,mensuel,42,3,4.6,Loisirs & Culture,0,4,1,1,6,1
+271,80,Féminin,Paris,1110,mensuel,12,1,5.0,Aide Administrative,0,4,1,0,37,3
+272,79,Féminin,Paris,752,mensuel,7,6,5.0,Aide Administrative,0,4,1,0,25,3
+273,60,Féminin,Marseille,730,mensuel,32,14,3.3,Loisirs & Culture,0,2,1,1,24,0
+274,63,Féminin,Marseille,761,annuel,63,4,4.1,Sport & Loisirs,0,2,0,4,25,0
+275,84,Masculin,Paris,455,annuel,19,3,3.8,Santé & Bien-être,1,4,0,3,15,4
+276,73,Féminin,Marseille,337,annuel,35,9,3.7,Ménage,0,2,0,2,11,2
+277,84,Masculin,Bordeaux,1355,mensuel,16,8,3.2,Santé & Bien-être,1,0,1,3,45,4
+278,85,Féminin,Paris,1274,annuel,19,2,4.9,Santé & Bien-être,0,4,0,3,42,4
+279,63,Féminin,Paris,719,annuel,45,5,3.3,Sport & Loisirs,0,4,0,4,24,0
+280,86,Féminin,Bordeaux,996,mensuel,13,13,4.7,Santé & Bien-être,0,0,1,3,33,5
+281,65,Féminin,Marseille,1304,mensuel,71,2,5.0,Loisirs & Culture,0,2,1,1,43,0
+282,82,Féminin,Marseille,350,mensuel,16,3,3.2,Santé & Bien-être,0,2,1,3,12,4
+283,90,Masculin,Toulouse,1060,annuel,16,12,4.7,Santé & Bien-être,1,5,0,3,35,5
+284,62,Masculin,Paris,30,annuel,71,13,3.6,Sport & Loisirs,1,4,0,4,1,0
+285,60,Masculin,Bordeaux,912,annuel,55,2,4.0,Sport & Loisirs,1,0,0,4,30,0
+286,81,Masculin,Toulouse,1208,annuel,19,4,3.5,Aide Administrative,1,5,0,0,40,4
+287,72,Masculin,Paris,1116,mensuel,11,7,3.7,Ménage,1,4,1,2,37,2
+288,63,Féminin,Toulouse,1092,mensuel,68,13,4.6,Sport & Loisirs,0,5,1,4,36,0
+289,64,Masculin,Paris,31,annuel,75,9,3.8,Sport & Loisirs,1,4,0,4,1,0
+290,65,Masculin,Marseille,984,annuel,67,7,3.7,Sport & Loisirs,1,2,0,4,33,0
+291,70,Féminin,Toulouse,932,mensuel,38,7,4.1,Ménage,0,5,1,2,31,1
+292,60,Masculin,Paris,41,mensuel,77,5,3.6,Loisirs & Culture,1,4,1,1,1,0
+293,70,Masculin,Paris,1487,annuel,74,8,5.0,Loisirs & Culture,1,4,0,1,50,1
+294,81,Féminin,Paris,1079,mensuel,23,14,4.4,Aide Administrative,0,4,1,0,36,4
+295,83,Féminin,Marseille,177,mensuel,3,9,3.6,Aide Administrative,0,2,1,0,6,4
+296,72,Féminin,Lyon,866,mensuel,28,9,3.9,Ménage,0,1,1,2,29,2
+297,63,Masculin,Nice,83,annuel,52,1,4.1,Sport & Loisirs,1,3,0,4,3,0
+298,65,Féminin,Paris,895,annuel,80,2,4.3,Sport & Loisirs,0,4,0,4,30,0
+299,62,Féminin,Lyon,231,annuel,58,14,4.5,Sport & Loisirs,0,1,0,4,8,0
+300,82,Féminin,Lyon,372,mensuel,24,6,4.0,Aide Administrative,0,1,1,0,12,4
+301,76,Féminin,Toulouse,1396,annuel,16,14,3.8,Ménage,0,5,0,2,47,3
+302,61,Féminin,Paris,195,annuel,37,12,3.7,Sport & Loisirs,0,4,0,4,6,0
+303,80,Masculin,Lyon,980,mensuel,9,14,3.9,Aide Administrative,1,1,1,0,33,3
+304,65,Féminin,Paris,1411,mensuel,54,2,4.5,Loisirs & Culture,0,4,1,1,47,0
+305,84,Féminin,Bordeaux,445,mensuel,7,8,3.7,Santé & Bien-être,0,0,1,3,15,4
+306,64,Masculin,Nice,1002,annuel,58,8,4.8,Sport & Loisirs,1,3,0,4,33,0
+307,69,Féminin,Paris,358,mensuel,50,2,3.2,Loisirs & Culture,0,4,1,1,12,1
+308,68,Masculin,Paris,1183,annuel,44,3,3.9,Loisirs & Culture,1,4,0,1,39,1
+309,75,Féminin,Nice,182,mensuel,27,12,3.4,Aide Administrative,0,3,1,0,6,2
+310,84,Masculin,Nice,1417,mensuel,11,7,4.1,Santé & Bien-être,1,3,1,3,47,4
+311,64,Masculin,Lyon,1496,annuel,65,1,4.4,Sport & Loisirs,1,1,0,4,50,0
+312,86,Féminin,Lyon,299,mensuel,13,3,4.2,Santé & Bien-être,0,1,1,3,10,5
+313,70,Féminin,Paris,823,annuel,51,7,3.2,Loisirs & Culture,0,4,0,1,27,1
+314,64,Féminin,Nice,158,annuel,57,13,4.0,Loisirs & Culture,0,3,0,1,5,0
+315,61,Masculin,Paris,831,mensuel,74,6,4.5,Sport & Loisirs,1,4,1,4,28,0
+316,81,Masculin,Lyon,420,mensuel,19,2,3.9,Aide Administrative,1,1,1,0,14,4
+317,63,Féminin,Marseille,185,mensuel,64,1,3.5,Sport & Loisirs,0,2,1,4,6,0
+318,77,Féminin,Nice,664,mensuel,23,3,3.6,Ménage,0,3,1,2,22,3
+319,60,Féminin,Nice,1247,mensuel,54,5,3.6,Sport & Loisirs,0,3,1,4,42,0
+320,84,Masculin,Toulouse,30,mensuel,28,6,3.4,Aide Administrative,1,5,1,0,1,4
+321,73,Masculin,Paris,694,annuel,29,10,3.6,Ménage,1,4,0,2,23,2
+322,70,Féminin,Bordeaux,230,mensuel,31,2,4.8,Ménage,0,0,1,2,8,1
+323,60,Féminin,Nice,482,annuel,59,11,3.5,Sport & Loisirs,0,3,0,4,16,0
+324,81,Masculin,Lyon,1015,mensuel,24,7,4.2,Aide Administrative,1,1,1,0,34,4
+325,74,Féminin,Marseille,224,annuel,33,14,3.6,Ménage,0,2,0,2,7,2
+326,76,Masculin,Lyon,380,mensuel,38,13,3.8,Ménage,1,1,1,2,13,3
+327,65,Féminin,Paris,308,annuel,60,9,3.9,Sport & Loisirs,0,4,0,4,10,0
+328,79,Masculin,Bordeaux,81,annuel,8,13,3.8,Ménage,1,0,0,2,3,3
+329,85,Féminin,Paris,128,annuel,17,7,4.3,Santé & Bien-être,0,4,0,3,4,4
+330,83,Masculin,Bordeaux,644,annuel,28,11,4.0,Aide Administrative,1,0,0,0,21,4
+331,64,Féminin,Marseille,602,annuel,48,10,4.2,Loisirs & Culture,0,2,0,1,20,0
+332,77,Féminin,Toulouse,233,annuel,15,13,3.6,Aide Administrative,0,5,0,0,8,3
+333,81,Masculin,Paris,1351,mensuel,13,3,3.2,Aide Administrative,1,4,1,0,45,4
+334,82,Féminin,Paris,544,mensuel,22,10,3.4,Aide Administrative,0,4,1,0,18,4
+335,75,Féminin,Marseille,296,annuel,18,8,4.3,Ménage,0,2,0,2,10,2
+336,61,Féminin,Paris,31,annuel,62,6,3.3,Sport & Loisirs,0,4,0,4,1,0
+337,85,Féminin,Paris,121,annuel,6,1,4.1,Santé & Bien-être,0,4,0,3,4,4
+338,76,Masculin,Lyon,1357,mensuel,40,9,4.1,Ménage,1,1,1,2,45,3
+339,63,Masculin,Paris,54,annuel,49,3,4.4,Sport & Loisirs,1,4,0,4,2,0
+340,60,Masculin,Nice,793,mensuel,63,3,4.5,Sport & Loisirs,1,3,1,4,26,0
+341,68,Féminin,Paris,497,annuel,47,2,3.8,Loisirs & Culture,0,4,0,1,17,1
+342,66,Féminin,Paris,976,annuel,55,3,4.6,Loisirs & Culture,0,4,0,1,33,1
+343,75,Féminin,Nice,648,mensuel,22,2,4.9,Ménage,0,3,1,2,22,2
+344,87,Féminin,Lyon,447,mensuel,11,10,3.4,Santé & Bien-être,0,1,1,3,15,5
+345,60,Masculin,Paris,893,annuel,66,4,4.2,Sport & Loisirs,1,4,0,4,30,0
+346,66,Masculin,Marseille,1088,annuel,44,5,3.4,Loisirs & Culture,1,2,0,1,36,1
+347,72,Féminin,Paris,481,annuel,25,2,4.8,Ménage,0,4,0,2,16,2
+348,80,Féminin,Bordeaux,989,annuel,14,9,4.0,Aide Administrative,0,0,0,0,33,3
+349,63,Masculin,Paris,1274,annuel,57,12,4.7,Loisirs & Culture,1,4,0,1,42,0
+350,79,Féminin,Nice,184,mensuel,34,6,3.4,Aide Administrative,0,3,1,0,6,3
+351,81,Masculin,Nice,197,annuel,16,5,4.2,Aide Administrative,1,3,0,0,7,4
+352,80,Masculin,Bordeaux,928,mensuel,27,8,4.6,Aide Administrative,1,0,1,0,31,3
+353,74,Féminin,Marseille,651,mensuel,37,2,3.4,Ménage,0,2,1,2,22,2
+354,77,Masculin,Paris,1290,annuel,34,4,4.5,Ménage,1,4,0,2,43,3
+355,80,Masculin,Toulouse,887,annuel,2,9,4.4,Aide Administrative,1,5,0,0,30,3
+356,60,Masculin,Lyon,410,annuel,61,8,4.2,Sport & Loisirs,1,1,0,4,14,0
+357,84,Féminin,Nice,1499,mensuel,17,14,4.4,Aide Administrative,0,3,1,0,50,4
+358,78,Féminin,Lyon,645,annuel,31,6,4.2,Ménage,0,1,0,2,22,3
+359,72,Féminin,Nice,1060,annuel,34,7,4.0,Ménage,0,3,0,2,35,2
+360,65,Masculin,Paris,1099,mensuel,66,6,4.3,Sport & Loisirs,1,4,1,4,37,0
+361,71,Masculin,Marseille,217,annuel,40,4,3.9,Loisirs & Culture,1,2,0,1,7,2
+362,87,Féminin,Toulouse,590,mensuel,11,4,3.2,Santé & Bien-être,0,5,1,3,20,5
+363,85,Féminin,Marseille,424,mensuel,4,12,3.5,Santé & Bien-être,0,2,1,3,14,4
+364,67,Féminin,Lyon,1454,annuel,60,12,3.3,Sport & Loisirs,0,1,0,4,48,1
+365,65,Masculin,Paris,357,mensuel,36,5,3.5,Sport & Loisirs,1,4,1,4,12,0
+366,74,Masculin,Toulouse,955,mensuel,19,14,4.6,Ménage,1,5,1,2,32,2
+367,71,Masculin,Marseille,298,mensuel,30,5,3.6,Ménage,1,2,1,2,10,2
+368,63,Masculin,Nice,449,mensuel,65,9,3.8,Sport & Loisirs,1,3,1,4,15,0
+369,61,Masculin,Paris,1131,annuel,65,14,4.7,Sport & Loisirs,1,4,0,4,38,0
+370,74,Féminin,Toulouse,859,annuel,20,13,5.0,Ménage,0,5,0,2,29,2
+371,62,Féminin,Nice,617,annuel,73,1,4.5,Sport & Loisirs,0,3,0,4,21,0
+372,84,Masculin,Marseille,676,mensuel,9,14,3.2,Santé & Bien-être,1,2,1,3,23,4
+373,61,Féminin,Marseille,30,annuel,64,6,4.2,Sport & Loisirs,0,2,0,4,1,0
+374,65,Masculin,Toulouse,383,annuel,68,9,4.5,Loisirs & Culture,1,5,0,1,13,0
+375,87,Masculin,Nice,425,mensuel,12,3,4.1,Santé & Bien-être,1,3,1,3,14,5
+376,88,Masculin,Marseille,1435,annuel,14,4,4.6,Santé & Bien-être,1,2,0,3,48,5
+377,83,Féminin,Toulouse,518,annuel,16,2,4.6,Santé & Bien-être,0,5,0,3,17,4
+378,77,Féminin,Lyon,334,annuel,27,10,3.9,Aide Administrative,0,1,0,0,11,3
+379,78,Féminin,Paris,942,annuel,15,6,3.3,Aide Administrative,0,4,0,0,31,3
+380,64,Féminin,Lyon,1095,annuel,68,8,4.0,Sport & Loisirs,0,1,0,4,36,0
+381,60,Féminin,Toulouse,1058,annuel,68,14,4.1,Sport & Loisirs,0,5,0,4,35,0
+382,85,Masculin,Paris,635,mensuel,14,14,3.9,Santé & Bien-être,1,4,1,3,21,4
+383,61,Masculin,Paris,1273,mensuel,60,1,3.8,Sport & Loisirs,1,4,1,4,42,0
+384,60,Féminin,Bordeaux,610,annuel,67,7,3.3,Sport & Loisirs,0,0,0,4,20,0
+385,67,Féminin,Paris,1318,annuel,51,14,3.9,Loisirs & Culture,0,4,0,1,44,1
+386,66,Féminin,Lyon,488,annuel,63,4,4.3,Sport & Loisirs,0,1,0,4,16,1
+387,85,Masculin,Bordeaux,466,mensuel,3,3,4.1,Santé & Bien-être,1,0,1,3,16,4
+388,79,Féminin,Paris,200,mensuel,28,12,4.6,Aide Administrative,0,4,1,0,7,3
+389,82,Féminin,Paris,531,annuel,17,6,4.8,Aide Administrative,0,4,0,0,18,4
+390,86,Féminin,Bordeaux,1119,annuel,10,12,4.1,Santé & Bien-être,0,0,0,3,37,5
+391,66,Féminin,Paris,316,mensuel,73,3,4.0,Sport & Loisirs,0,4,1,4,11,1
+392,78,Féminin,Paris,316,mensuel,19,14,4.5,Aide Administrative,0,4,1,0,11,3
+393,86,Féminin,Paris,425,mensuel,15,11,3.9,Santé & Bien-être,0,4,1,3,14,5
+394,76,Masculin,Lyon,261,annuel,8,2,3.8,Aide Administrative,1,1,0,0,9,3
+395,62,Féminin,Paris,57,mensuel,60,5,3.2,Sport & Loisirs,0,4,1,4,2,0
+396,75,Féminin,Paris,462,annuel,25,10,3.7,Aide Administrative,0,4,0,0,15,2
+397,80,Féminin,Marseille,710,mensuel,10,5,4.4,Aide Administrative,0,2,1,0,24,3
+398,79,Féminin,Nice,767,annuel,13,10,4.1,Aide Administrative,0,3,0,0,26,3
+399,73,Masculin,Paris,611,mensuel,27,4,3.5,Ménage,1,4,1,2,20,2
+400,65,Féminin,Nice,821,annuel,51,6,3.3,Loisirs & Culture,0,3,0,1,27,0
+401,75,Féminin,Nice,412,annuel,38,2,4.5,Ménage,0,3,0,2,14,2
+402,67,Masculin,Bordeaux,1041,mensuel,44,6,4.2,Loisirs & Culture,1,0,1,1,35,1
+403,80,Féminin,Paris,1367,annuel,19,10,3.7,Aide Administrative,0,4,0,0,46,3
+404,62,Féminin,Paris,1336,annuel,49,4,3.8,Sport & Loisirs,0,4,0,4,45,0
+405,60,Féminin,Lyon,676,mensuel,72,7,3.2,Sport & Loisirs,0,1,1,4,23,0
+406,80,Féminin,Bordeaux,891,mensuel,3,7,3.7,Aide Administrative,0,0,1,0,30,3
+407,65,Féminin,Lyon,946,annuel,34,5,4.5,Loisirs & Culture,0,1,0,1,32,0
+408,71,Masculin,Toulouse,1102,mensuel,33,13,3.3,Ménage,1,5,1,2,37,2
+409,78,Masculin,Toulouse,1172,annuel,37,4,4.5,Ménage,1,5,0,2,39,3
+410,86,Féminin,Bordeaux,1370,mensuel,11,2,3.4,Santé & Bien-être,0,0,1,3,46,5
+411,73,Féminin,Paris,1082,mensuel,14,10,4.8,Ménage,0,4,1,2,36,2
+412,63,Masculin,Toulouse,912,mensuel,46,12,4.3,Loisirs & Culture,1,5,1,1,30,0
+413,74,Féminin,Marseille,1461,mensuel,25,2,4.4,Ménage,0,2,1,2,49,2
+414,75,Masculin,Paris,412,annuel,22,8,3.3,Ménage,1,4,0,2,14,2
+415,73,Féminin,Nice,761,mensuel,37,1,3.3,Ménage,0,3,1,2,25,2
+416,68,Féminin,Paris,1382,mensuel,67,13,4.0,Loisirs & Culture,0,4,1,1,46,1
+417,69,Masculin,Paris,710,mensuel,35,12,4.4,Ménage,1,4,1,2,24,1
+418,64,Féminin,Toulouse,260,annuel,66,12,4.8,Sport & Loisirs,0,5,0,4,9,0
+419,67,Féminin,Paris,727,annuel,62,4,3.3,Loisirs & Culture,0,4,0,1,24,1
+420,64,Masculin,Bordeaux,580,annuel,45,1,4.4,Sport & Loisirs,1,0,0,4,19,0
+421,78,Masculin,Paris,593,mensuel,17,6,4.0,Ménage,1,4,1,2,20,3
+422,63,Masculin,Lyon,719,mensuel,53,8,3.7,Loisirs & Culture,1,1,1,1,24,0
+423,78,Féminin,Bordeaux,692,annuel,29,6,4.8,Aide Administrative,0,0,0,0,23,3
+424,85,Masculin,Bordeaux,568,annuel,31,7,4.3,Santé & Bien-être,1,0,0,3,19,4
+425,80,Féminin,Lyon,1412,annuel,13,13,4.3,Santé & Bien-être,0,1,0,3,47,3
+426,76,Féminin,Nice,224,mensuel,38,13,3.7,Ménage,0,3,1,2,7,3
+427,75,Féminin,Lyon,661,annuel,22,7,3.7,Ménage,0,1,0,2,22,2
+428,84,Féminin,Lyon,609,mensuel,10,13,4.8,Santé & Bien-être,0,1,1,3,20,4
+429,72,Masculin,Marseille,335,mensuel,24,1,4.8,Ménage,1,2,1,2,11,2
+430,66,Masculin,Paris,448,annuel,55,11,3.6,Loisirs & Culture,1,4,0,1,15,1
+431,64,Féminin,Marseille,1014,mensuel,52,4,3.6,Loisirs & Culture,0,2,1,1,34,0
+432,65,Masculin,Toulouse,299,annuel,60,3,3.5,Sport & Loisirs,1,5,0,4,10,0
+433,71,Masculin,Toulouse,595,mensuel,27,13,3.4,Ménage,1,5,1,2,20,2
+434,76,Masculin,Nice,969,mensuel,24,9,4.4,Ménage,1,3,1,2,32,3
+435,85,Féminin,Paris,457,mensuel,18,11,4.9,Aide Administrative,0,4,1,0,15,4
+436,64,Féminin,Toulouse,625,mensuel,46,8,4.5,Loisirs & Culture,0,5,1,1,21,0
+437,63,Féminin,Paris,1347,mensuel,56,14,3.8,Loisirs & Culture,0,4,1,1,45,0
+438,83,Masculin,Toulouse,1366,annuel,14,8,4.5,Santé & Bien-être,1,5,0,3,46,4
+439,77,Féminin,Paris,952,annuel,29,6,3.3,Ménage,0,4,0,2,32,3
+440,77,Masculin,Bordeaux,734,annuel,23,3,4.8,Aide Administrative,1,0,0,0,24,3
+441,67,Féminin,Lyon,58,mensuel,50,6,3.9,Sport & Loisirs,0,1,1,4,2,1
+442,63,Masculin,Paris,72,mensuel,53,3,4.2,Sport & Loisirs,1,4,1,4,2,0
+443,86,Féminin,Marseille,72,annuel,16,6,3.6,Santé & Bien-être,0,2,0,3,2,5
+444,82,Masculin,Paris,1466,mensuel,31,11,4.0,Aide Administrative,1,4,1,0,49,4
+445,66,Masculin,Lyon,1184,annuel,65,14,3.5,Loisirs & Culture,1,1,0,1,39,1
+446,63,Féminin,Bordeaux,800,annuel,53,5,4.5,Sport & Loisirs,0,0,0,4,27,0
+447,82,Féminin,Paris,200,annuel,23,5,4.9,Aide Administrative,0,4,0,0,7,4
+448,69,Masculin,Paris,733,mensuel,71,9,4.8,Loisirs & Culture,1,4,1,1,24,1
+449,67,Masculin,Toulouse,193,mensuel,32,8,4.6,Loisirs & Culture,1,5,1,1,6,1
+450,78,Féminin,Bordeaux,445,mensuel,12,4,4.6,Aide Administrative,0,0,1,0,15,3
+451,79,Masculin,Lyon,201,mensuel,24,3,3.5,Aide Administrative,1,1,1,0,7,3
+452,66,Masculin,Lyon,189,annuel,37,12,3.5,Loisirs & Culture,1,1,0,1,6,1
+453,67,Féminin,Bordeaux,744,annuel,57,3,4.7,Sport & Loisirs,0,0,0,4,25,1
+454,87,Féminin,Lyon,152,annuel,15,11,4.6,Santé & Bien-être,0,1,0,3,5,5
+455,66,Masculin,Marseille,963,annuel,40,9,4.0,Sport & Loisirs,1,2,0,4,32,1
+456,67,Féminin,Bordeaux,1342,mensuel,54,4,3.5,Sport & Loisirs,0,0,1,4,45,1
+457,82,Féminin,Paris,85,mensuel,17,14,3.4,Aide Administrative,0,4,1,0,3,4
+458,69,Masculin,Paris,506,annuel,52,14,4.0,Loisirs & Culture,1,4,0,1,17,1
+459,66,Féminin,Marseille,151,annuel,46,7,4.8,Loisirs & Culture,0,2,0,1,5,1
+460,64,Féminin,Marseille,151,mensuel,56,11,4.0,Sport & Loisirs,0,2,1,4,5,0
+461,85,Féminin,Bordeaux,741,mensuel,20,3,3.7,Santé & Bien-être,0,0,1,3,25,4
+462,79,Féminin,Toulouse,698,annuel,23,8,4.4,Aide Administrative,0,5,0,0,23,3
+463,84,Masculin,Bordeaux,1199,annuel,22,8,3.8,Santé & Bien-être,1,0,0,3,40,4
+464,72,Masculin,Lyon,1048,annuel,45,2,4.1,Ménage,1,1,0,2,35,2
+465,73,Féminin,Toulouse,876,annuel,19,5,4.5,Ménage,0,5,0,2,29,2
+466,63,Féminin,Paris,230,annuel,60,5,3.8,Sport & Loisirs,0,4,0,4,8,0
+467,69,Masculin,Paris,575,mensuel,56,2,4.5,Loisirs & Culture,1,4,1,1,19,1
+468,73,Féminin,Marseille,559,annuel,22,1,4.2,Aide Administrative,0,2,0,0,19,2
+469,64,Féminin,Nice,844,annuel,45,11,3.7,Sport & Loisirs,0,3,0,4,28,0
+470,68,Féminin,Marseille,1475,mensuel,35,10,4.8,Loisirs & Culture,0,2,1,1,49,1
+471,83,Féminin,Marseille,377,mensuel,14,12,4.7,Santé & Bien-être,0,2,1,3,13,4
+472,84,Féminin,Paris,431,mensuel,6,8,4.3,Aide Administrative,0,4,1,0,14,4
+473,65,Féminin,Paris,1380,annuel,60,4,3.8,Sport & Loisirs,0,4,0,4,46,0
+474,86,Féminin,Lyon,50,annuel,2,4,3.7,Santé & Bien-être,0,1,0,3,2,5
+475,67,Masculin,Nice,1162,annuel,43,5,4.5,Loisirs & Culture,1,3,0,1,39,1
+476,60,Féminin,Toulouse,133,mensuel,46,8,4.3,Loisirs & Culture,0,5,1,1,4,0
+477,80,Féminin,Paris,1345,mensuel,6,13,3.8,Aide Administrative,0,4,1,0,45,3
+478,63,Masculin,Paris,67,mensuel,60,5,3.3,Sport & Loisirs,1,4,1,4,2,0
+479,79,Féminin,Toulouse,78,annuel,20,6,4.7,Aide Administrative,0,5,0,0,3,3
+480,78,Féminin,Bordeaux,1008,mensuel,3,12,3.7,Aide Administrative,0,0,1,0,34,3
+481,83,Féminin,Toulouse,718,mensuel,18,11,3.9,Santé & Bien-être,0,5,1,3,24,4
+482,90,Féminin,Paris,495,mensuel,17,14,3.3,Santé & Bien-être,0,4,1,3,16,5
+483,71,Masculin,Nice,1319,annuel,35,9,3.3,Ménage,1,3,0,2,44,2
+484,70,Féminin,Paris,773,annuel,53,6,3.5,Loisirs & Culture,0,4,0,1,26,1
+485,78,Féminin,Toulouse,155,mensuel,14,1,3.6,Aide Administrative,0,5,1,0,5,3
+486,64,Féminin,Lyon,224,annuel,36,9,4.0,Loisirs & Culture,0,1,0,1,7,0
+487,77,Féminin,Lyon,928,mensuel,59,14,3.9,Ménage,0,1,1,2,31,3
+488,70,Féminin,Paris,605,annuel,44,2,4.7,Loisirs & Culture,0,4,0,1,20,1
+489,74,Féminin,Paris,262,mensuel,30,10,3.6,Ménage,0,4,1,2,9,2
+490,65,Féminin,Marseille,986,annuel,63,5,4.3,Sport & Loisirs,0,2,0,4,33,0
+491,71,Féminin,Toulouse,133,mensuel,39,12,3.4,Ménage,0,5,1,2,4,2
+492,72,Masculin,Nice,356,annuel,37,5,4.0,Ménage,1,3,0,2,12,2
+493,72,Féminin,Paris,1341,mensuel,18,4,4.3,Ménage,0,4,1,2,45,2
+494,80,Féminin,Marseille,675,mensuel,16,5,4.2,Aide Administrative,0,2,1,0,22,3
+495,62,Féminin,Paris,1256,annuel,37,7,3.9,Loisirs & Culture,0,4,0,1,42,0
+496,69,Masculin,Nice,744,mensuel,48,4,4.9,Loisirs & Culture,1,3,1,1,25,1
+497,89,Féminin,Paris,186,annuel,18,9,3.8,Santé & Bien-être,0,4,0,3,6,5
+498,88,Féminin,Paris,87,mensuel,17,10,4.5,Santé & Bien-être,0,4,1,3,3,5
+499,60,Féminin,Paris,693,annuel,55,4,4.0,Sport & Loisirs,0,4,0,4,23,0
+500,81,Féminin,Toulouse,134,annuel,12,14,4.7,Santé & Bien-être,0,5,0,3,4,4
+501,62,Féminin,Bordeaux,485,mensuel,43,9,4.5,Sport & Loisirs,0,0,1,4,16,0
+502,85,Féminin,Paris,1426,annuel,20,7,4.2,Aide Administrative,0,4,0,0,48,4
+503,65,Masculin,Nice,474,mensuel,37,2,4.5,Loisirs & Culture,1,3,1,1,16,0
+504,81,Féminin,Marseille,1423,mensuel,13,12,3.3,Aide Administrative,0,2,1,0,47,4
+505,66,Masculin,Marseille,1345,annuel,53,11,3.8,Sport & Loisirs,1,2,0,4,45,1
+506,71,Féminin,Nice,1023,mensuel,22,5,4.3,Ménage,0,3,1,2,34,2
+507,75,Féminin,Bordeaux,848,annuel,25,12,3.6,Ménage,0,0,0,2,28,2
+508,75,Féminin,Nice,354,mensuel,19,3,3.3,Aide Administrative,0,3,1,0,12,2
+509,84,Féminin,Paris,1389,mensuel,13,10,3.9,Santé & Bien-être,0,4,1,3,46,4
+510,86,Masculin,Paris,879,mensuel,15,8,4.4,Santé & Bien-être,1,4,1,3,29,5
+511,62,Féminin,Paris,779,annuel,79,8,4.8,Sport & Loisirs,0,4,0,4,26,0
+512,62,Féminin,Paris,162,mensuel,38,11,4.9,Sport & Loisirs,0,4,1,4,5,0
+513,69,Féminin,Paris,416,annuel,53,8,4.7,Loisirs & Culture,0,4,0,1,14,1
+514,74,Masculin,Paris,460,annuel,29,9,3.4,Ménage,1,4,0,2,15,2
+515,87,Féminin,Bordeaux,1178,mensuel,13,10,4.6,Santé & Bien-être,0,0,1,3,39,5
+516,62,Féminin,Paris,1311,annuel,64,13,3.7,Sport & Loisirs,0,4,0,4,44,0
+517,62,Masculin,Lyon,1166,annuel,43,8,4.2,Sport & Loisirs,1,1,0,4,39,0
+518,78,Féminin,Paris,471,annuel,26,5,4.4,Aide Administrative,0,4,0,0,16,3
+519,60,Féminin,Marseille,1152,annuel,71,2,3.7,Sport & Loisirs,0,2,0,4,38,0
+520,72,Féminin,Bordeaux,500,annuel,20,4,4.9,Ménage,0,0,0,2,17,2
+521,85,Masculin,Marseille,162,mensuel,2,10,3.4,Santé & Bien-être,1,2,1,3,5,4
+522,67,Féminin,Paris,609,annuel,51,2,4.0,Sport & Loisirs,0,4,0,4,20,1
+523,72,Féminin,Lyon,185,annuel,20,7,4.1,Ménage,0,1,0,2,6,2
+524,75,Masculin,Marseille,639,mensuel,31,13,3.9,Ménage,1,2,1,2,21,2
+525,87,Féminin,Lyon,232,mensuel,26,2,3.4,Santé & Bien-être,0,1,1,3,8,5
+526,67,Féminin,Paris,424,annuel,71,5,4.6,Loisirs & Culture,0,4,0,1,14,1
+527,65,Féminin,Marseille,759,annuel,43,7,4.4,Sport & Loisirs,0,2,0,4,25,0
+528,83,Masculin,Bordeaux,1252,annuel,12,6,4.8,Santé & Bien-être,1,0,0,3,42,4
+529,75,Féminin,Paris,1144,annuel,21,6,4.7,Aide Administrative,0,4,0,0,38,2
+530,83,Masculin,Paris,707,mensuel,20,5,3.8,Aide Administrative,1,4,1,0,24,4
+531,75,Féminin,Marseille,541,mensuel,23,9,3.6,Ménage,0,2,1,2,18,2
+532,80,Féminin,Lyon,252,mensuel,2,1,4.7,Santé & Bien-être,0,1,1,3,8,3
+533,60,Féminin,Paris,34,annuel,62,6,3.3,Sport & Loisirs,0,4,0,4,1,0
+534,62,Féminin,Lyon,507,mensuel,64,12,3.9,Sport & Loisirs,0,1,1,4,17,0
+535,65,Féminin,Marseille,627,annuel,36,10,3.3,Loisirs & Culture,0,2,0,1,21,0
+536,85,Masculin,Marseille,983,mensuel,13,10,3.2,Santé & Bien-être,1,2,1,3,33,4
+537,83,Masculin,Paris,588,annuel,29,2,4.6,Aide Administrative,1,4,0,0,20,4
+538,81,Féminin,Toulouse,940,mensuel,21,14,3.9,Aide Administrative,0,5,1,0,31,4
+539,86,Masculin,Marseille,244,annuel,8,9,4.9,Santé & Bien-être,1,2,0,3,8,5
+540,62,Masculin,Paris,767,annuel,65,1,3.4,Sport & Loisirs,1,4,0,4,26,0
+541,64,Masculin,Paris,1429,mensuel,51,14,4.3,Loisirs & Culture,1,4,1,1,48,0
+542,83,Masculin,Lyon,931,mensuel,21,6,4.4,Aide Administrative,1,1,1,0,31,4
+543,62,Féminin,Lyon,471,annuel,52,14,4.5,Sport & Loisirs,0,1,0,4,16,0
+544,61,Féminin,Marseille,54,mensuel,40,3,3.3,Sport & Loisirs,0,2,1,4,2,0
+545,67,Féminin,Paris,1470,annuel,62,7,3.9,Loisirs & Culture,0,4,0,1,49,1
+546,68,Féminin,Bordeaux,592,annuel,70,10,4.7,Loisirs & Culture,0,0,0,1,20,1
+547,81,Féminin,Lyon,246,mensuel,12,3,4.7,Aide Administrative,0,1,1,0,8,4
+548,86,Masculin,Paris,197,mensuel,14,9,3.6,Santé & Bien-être,1,4,1,3,7,5
+549,68,Féminin,Paris,484,mensuel,45,1,3.9,Loisirs & Culture,0,4,1,1,16,1
+550,66,Masculin,Paris,973,mensuel,47,10,3.4,Sport & Loisirs,1,4,1,4,32,1
+551,81,Masculin,Lyon,1154,mensuel,11,14,4.9,Aide Administrative,1,1,1,0,38,4
+552,65,Féminin,Marseille,716,annuel,34,5,4.6,Loisirs & Culture,0,2,0,1,24,0
+553,67,Féminin,Paris,1019,annuel,42,4,3.9,Loisirs & Culture,0,4,0,1,34,1
+554,83,Masculin,Paris,1111,mensuel,23,4,4.3,Aide Administrative,1,4,1,0,37,4
+555,83,Féminin,Lyon,775,annuel,27,13,4.4,Aide Administrative,0,1,0,0,26,4
+556,81,Féminin,Bordeaux,433,annuel,13,4,4.4,Aide Administrative,0,0,0,0,14,4
+557,78,Féminin,Paris,598,mensuel,14,3,4.6,Aide Administrative,0,4,1,0,20,3
+558,84,Masculin,Paris,1262,annuel,6,7,3.3,Santé & Bien-être,1,4,0,3,42,4
+559,74,Féminin,Marseille,500,annuel,27,11,4.4,Ménage,0,2,0,2,17,2
+560,85,Féminin,Nice,1128,annuel,6,10,3.6,Santé & Bien-être,0,3,0,3,38,4
+561,66,Féminin,Toulouse,1378,annuel,43,8,4.9,Sport & Loisirs,0,5,0,4,46,1
+562,85,Féminin,Paris,473,mensuel,18,13,4.2,Santé & Bien-être,0,4,1,3,16,4
+563,61,Féminin,Bordeaux,1216,mensuel,46,9,4.5,Sport & Loisirs,0,0,1,4,41,0
+564,83,Féminin,Paris,553,mensuel,16,4,3.9,Aide Administrative,0,4,1,0,18,4
+565,61,Féminin,Paris,1260,mensuel,63,12,3.5,Sport & Loisirs,0,4,1,4,42,0
+566,61,Féminin,Lyon,1278,mensuel,52,12,3.6,Sport & Loisirs,0,1,1,4,43,0
+567,75,Féminin,Toulouse,520,mensuel,34,10,4.3,Ménage,0,5,1,2,17,2
+568,60,Féminin,Lyon,999,mensuel,69,2,3.7,Sport & Loisirs,0,1,1,4,33,0
+569,88,Féminin,Bordeaux,1254,mensuel,21,10,3.8,Santé & Bien-être,0,0,1,3,42,5
+570,83,Masculin,Bordeaux,952,mensuel,19,10,4.0,Santé & Bien-être,1,0,1,3,32,4
+571,74,Féminin,Paris,257,annuel,21,4,3.5,Ménage,0,4,0,2,9,2
+572,84,Masculin,Lyon,1107,mensuel,16,12,4.6,Aide Administrative,1,1,1,0,37,4
+573,72,Féminin,Paris,239,annuel,25,1,4.9,Ménage,0,4,0,2,8,2
+574,69,Masculin,Paris,1407,annuel,54,6,3.6,Loisirs & Culture,1,4,0,1,47,1
+575,83,Masculin,Lyon,208,annuel,21,9,3.5,Aide Administrative,1,1,0,0,7,4
+576,65,Féminin,Paris,434,mensuel,36,5,4.6,Loisirs & Culture,0,4,1,1,14,0
+577,65,Féminin,Nice,182,mensuel,75,14,4.2,Sport & Loisirs,0,3,1,4,6,0
+578,80,Masculin,Paris,1057,mensuel,11,8,3.6,Aide Administrative,1,4,1,0,35,3
+579,75,Féminin,Paris,484,annuel,32,6,3.4,Ménage,0,4,0,2,16,2
+580,85,Féminin,Paris,52,mensuel,5,9,3.6,Santé & Bien-être,0,4,1,3,2,4
+581,78,Féminin,Paris,103,annuel,31,12,4.9,Ménage,0,4,0,2,3,3
+582,69,Féminin,Paris,1063,annuel,36,12,4.6,Loisirs & Culture,0,4,0,1,35,1
+583,61,Masculin,Nice,179,annuel,70,6,3.7,Sport & Loisirs,1,3,0,4,6,0
+584,87,Féminin,Lyon,752,annuel,15,7,4.0,Santé & Bien-être,0,1,0,3,25,5
+585,72,Féminin,Marseille,462,mensuel,40,8,3.7,Ménage,0,2,1,2,15,2
+586,72,Féminin,Lyon,1326,mensuel,32,8,4.9,Ménage,0,1,1,2,44,2
+587,85,Féminin,Lyon,729,mensuel,9,9,3.9,Santé & Bien-être,0,1,1,3,24,4
+588,81,Féminin,Nice,150,annuel,8,5,5.0,Santé & Bien-être,0,3,0,3,5,4
+589,84,Féminin,Paris,741,mensuel,20,6,4.3,Aide Administrative,0,4,1,0,25,4
+590,60,Féminin,Bordeaux,393,annuel,43,13,4.7,Loisirs & Culture,0,0,0,1,13,0
+591,86,Féminin,Paris,380,mensuel,14,11,3.9,Santé & Bien-être,0,4,1,3,13,5
+592,85,Masculin,Lyon,1415,mensuel,2,11,4.6,Santé & Bien-être,1,1,1,3,47,4
+593,76,Masculin,Toulouse,523,mensuel,33,13,4.8,Ménage,1,5,1,2,17,3
+594,86,Féminin,Toulouse,423,annuel,15,5,4.0,Santé & Bien-être,0,5,0,3,14,5
+595,82,Masculin,Paris,996,mensuel,20,9,3.9,Santé & Bien-être,1,4,1,3,33,4
+596,77,Féminin,Marseille,842,mensuel,20,8,4.5,Aide Administrative,0,2,1,0,28,3
+597,86,Féminin,Paris,794,mensuel,6,2,3.5,Santé & Bien-être,0,4,1,3,26,5
+598,67,Féminin,Nice,195,mensuel,54,13,4.6,Sport & Loisirs,0,3,1,4,6,1
+599,83,Masculin,Nice,1457,mensuel,12,11,3.3,Aide Administrative,1,3,1,0,49,4
+600,64,Féminin,Lyon,51,annuel,51,11,4.7,Sport & Loisirs,0,1,0,4,2,0
+601,81,Féminin,Nice,1349,mensuel,17,10,4.2,Aide Administrative,0,3,1,0,45,4
+602,80,Féminin,Paris,525,mensuel,25,13,3.8,Aide Administrative,0,4,1,0,18,3
+603,78,Féminin,Lyon,1097,mensuel,17,7,3.5,Aide Administrative,0,1,1,0,37,3
+604,62,Féminin,Lyon,143,annuel,73,3,3.5,Sport & Loisirs,0,1,0,4,5,0
+605,67,Masculin,Paris,271,annuel,36,5,4.6,Loisirs & Culture,1,4,0,1,9,1
+606,78,Masculin,Lyon,481,annuel,10,7,4.3,Aide Administrative,1,1,0,0,16,3
+607,61,Féminin,Marseille,1043,mensuel,62,14,4.9,Sport & Loisirs,0,2,1,4,35,0
+608,74,Féminin,Marseille,445,annuel,20,9,4.5,Ménage,0,2,0,2,15,2
+609,75,Masculin,Marseille,861,annuel,50,7,3.5,Ménage,1,2,0,2,29,2
+610,78,Masculin,Toulouse,1455,mensuel,14,13,4.3,Aide Administrative,1,5,1,0,48,3
+611,62,Masculin,Paris,581,annuel,71,9,3.7,Sport & Loisirs,1,4,0,4,19,0
+612,62,Féminin,Bordeaux,880,annuel,67,5,3.4,Sport & Loisirs,0,0,0,4,29,0
+613,65,Féminin,Paris,66,mensuel,55,4,3.5,Sport & Loisirs,0,4,1,4,2,0
+614,72,Masculin,Marseille,367,mensuel,9,7,4.7,Ménage,1,2,1,2,12,2
+615,87,Féminin,Lyon,1109,annuel,7,5,5.0,Santé & Bien-être,0,1,0,3,37,5
+616,64,Féminin,Bordeaux,457,mensuel,74,5,3.7,Loisirs & Culture,0,0,1,1,15,0
+617,84,Féminin,Paris,1197,annuel,12,1,4.1,Santé & Bien-être,0,4,0,3,40,4
+618,83,Féminin,Marseille,80,mensuel,15,6,3.9,Santé & Bien-être,0,2,1,3,3,4
+619,63,Masculin,Paris,94,mensuel,62,9,4.6,Sport & Loisirs,1,4,1,4,3,0
+620,91,Féminin,Toulouse,707,mensuel,8,2,4.3,Santé & Bien-être,0,5,1,3,24,5
+621,63,Masculin,Toulouse,1196,annuel,51,2,4.0,Sport & Loisirs,1,5,0,4,40,0
+622,76,Féminin,Nice,914,mensuel,44,4,3.8,Ménage,0,3,1,2,30,3
+623,64,Féminin,Lyon,1100,mensuel,43,6,5.0,Loisirs & Culture,0,1,1,1,37,0
+624,70,Masculin,Marseille,1319,annuel,63,3,4.8,Loisirs & Culture,1,2,0,1,44,1
+625,80,Masculin,Bordeaux,1253,annuel,19,3,3.6,Aide Administrative,1,0,0,0,42,3
+626,80,Féminin,Paris,635,mensuel,22,5,3.4,Aide Administrative,0,4,1,0,21,3
+627,78,Féminin,Toulouse,1203,annuel,22,4,4.4,Aide Administrative,0,5,0,0,40,3
+628,79,Masculin,Nice,1251,mensuel,15,13,3.8,Aide Administrative,1,3,1,0,42,3
+629,78,Masculin,Marseille,809,mensuel,20,10,3.5,Aide Administrative,1,2,1,0,27,3
+630,68,Féminin,Lyon,50,mensuel,56,3,4.5,Loisirs & Culture,0,1,1,1,2,1
+631,81,Féminin,Lyon,1326,mensuel,14,7,4.6,Aide Administrative,0,1,1,0,44,4
+632,67,Masculin,Lyon,733,annuel,53,11,3.3,Loisirs & Culture,1,1,0,1,24,1
+633,73,Féminin,Paris,682,annuel,43,4,3.6,Ménage,0,4,0,2,23,2
+634,64,Masculin,Lyon,477,annuel,39,3,3.4,Sport & Loisirs,1,1,0,4,16,0
+635,80,Féminin,Paris,1169,mensuel,4,8,3.2,Aide Administrative,0,4,1,0,39,3
+636,85,Masculin,Toulouse,255,annuel,8,14,4.2,Santé & Bien-être,1,5,0,3,8,4
+637,79,Féminin,Bordeaux,605,mensuel,25,10,3.3,Aide Administrative,0,0,1,0,20,3
+638,75,Féminin,Marseille,221,annuel,29,2,4.2,Ménage,0,2,0,2,7,2
+639,65,Masculin,Paris,845,annuel,58,11,3.6,Sport & Loisirs,1,4,0,4,28,0
+640,65,Féminin,Bordeaux,69,annuel,58,13,4.5,Sport & Loisirs,0,0,0,4,2,0
+641,84,Féminin,Bordeaux,671,mensuel,6,10,4.3,Aide Administrative,0,0,1,0,22,4
+642,86,Masculin,Marseille,1048,mensuel,10,2,5.0,Santé & Bien-être,1,2,1,3,35,5
+643,79,Féminin,Marseille,1383,annuel,29,9,3.4,Aide Administrative,0,2,0,0,46,3
+644,76,Féminin,Paris,200,annuel,3,10,4.1,Ménage,0,4,0,2,7,3
+645,73,Masculin,Lyon,374,mensuel,38,8,3.6,Ménage,1,1,1,2,12,2
+646,68,Féminin,Nice,749,annuel,14,6,4.4,Loisirs & Culture,0,3,0,1,25,1
+647,66,Féminin,Toulouse,1271,mensuel,52,14,4.1,Loisirs & Culture,0,5,1,1,42,1
+648,64,Masculin,Paris,1416,mensuel,34,5,4.3,Sport & Loisirs,1,4,1,4,47,0
+649,85,Masculin,Lyon,1077,mensuel,6,4,5.0,Santé & Bien-être,1,1,1,3,36,4
+650,79,Féminin,Paris,794,mensuel,15,14,5.0,Aide Administrative,0,4,1,0,26,3
+651,60,Féminin,Paris,767,annuel,50,9,3.8,Sport & Loisirs,0,4,0,4,26,0
+652,81,Féminin,Lyon,500,mensuel,17,4,3.8,Santé & Bien-être,0,1,1,3,17,4
+653,69,Féminin,Paris,673,annuel,31,14,3.5,Loisirs & Culture,0,4,0,1,22,1
+654,80,Féminin,Marseille,1146,mensuel,17,13,4.6,Aide Administrative,0,2,1,0,38,3
+655,70,Masculin,Toulouse,891,annuel,68,3,3.3,Loisirs & Culture,1,5,0,1,30,1
+656,70,Féminin,Bordeaux,377,mensuel,46,6,4.6,Loisirs & Culture,0,0,1,1,13,1
+657,74,Masculin,Lyon,1473,annuel,25,14,3.5,Ménage,1,1,0,2,49,2
+658,64,Féminin,Bordeaux,484,annuel,67,1,4.0,Sport & Loisirs,0,0,0,4,16,0
+659,67,Féminin,Lyon,271,annuel,39,11,3.2,Loisirs & Culture,0,1,0,1,9,1
+660,65,Féminin,Lyon,271,mensuel,53,1,4.5,Loisirs & Culture,0,1,1,1,9,0
+661,76,Féminin,Nice,56,annuel,33,11,4.9,Ménage,0,3,0,2,2,3
+662,65,Féminin,Lyon,616,annuel,57,7,4.0,Loisirs & Culture,0,1,0,1,21,0
+663,74,Masculin,Paris,750,mensuel,45,10,4.8,Ménage,1,4,1,2,25,2
+664,86,Masculin,Lyon,400,mensuel,13,5,3.5,Santé & Bien-être,1,1,1,3,13,5
+665,66,Féminin,Marseille,1253,mensuel,64,9,4.4,Sport & Loisirs,0,2,1,4,42,1
+666,82,Féminin,Paris,839,mensuel,6,12,4.6,Aide Administrative,0,4,1,0,28,4
+667,75,Féminin,Bordeaux,68,mensuel,12,7,3.3,Ménage,0,0,1,2,2,2
+668,77,Féminin,Toulouse,1377,annuel,10,13,3.8,Aide Administrative,0,5,0,0,46,3
+669,79,Masculin,Lyon,300,mensuel,8,12,4.6,Aide Administrative,1,1,1,0,10,3
+670,84,Masculin,Paris,414,mensuel,2,4,4.8,Santé & Bien-être,1,4,1,3,14,4
+671,66,Féminin,Paris,121,mensuel,49,14,4.8,Loisirs & Culture,0,4,1,1,4,1
+672,81,Féminin,Paris,753,mensuel,10,4,4.2,Aide Administrative,0,4,1,0,25,4
+673,85,Féminin,Paris,425,mensuel,13,11,4.2,Santé & Bien-être,0,4,1,3,14,4
+674,84,Féminin,Bordeaux,998,mensuel,26,7,3.2,Aide Administrative,0,0,1,0,33,4
+675,83,Féminin,Nice,888,mensuel,19,7,4.5,Santé & Bien-être,0,3,1,3,30,4
+676,79,Féminin,Paris,1150,mensuel,10,10,3.6,Aide Administrative,0,4,1,0,38,3
+677,83,Masculin,Paris,585,annuel,22,11,4.0,Santé & Bien-être,1,4,0,3,20,4
+678,79,Féminin,Paris,1045,annuel,17,13,4.6,Aide Administrative,0,4,0,0,35,3
+679,77,Masculin,Marseille,954,annuel,31,9,4.2,Ménage,1,2,0,2,32,3
+680,84,Féminin,Marseille,1340,annuel,11,14,4.8,Santé & Bien-être,0,2,0,3,45,4
+681,71,Masculin,Paris,434,annuel,31,7,3.4,Ménage,1,4,0,2,14,2
+682,66,Masculin,Nice,272,annuel,52,7,4.8,Loisirs & Culture,1,3,0,1,9,1
+683,83,Féminin,Toulouse,908,annuel,9,4,4.5,Santé & Bien-être,0,5,0,3,30,4
+684,75,Masculin,Paris,1288,mensuel,32,3,4.3,Ménage,1,4,1,2,43,2
+685,74,Féminin,Nice,1015,mensuel,20,6,4.4,Ménage,0,3,1,2,34,2
+686,64,Féminin,Lyon,191,annuel,55,7,5.0,Sport & Loisirs,0,1,0,4,6,0
+687,60,Féminin,Nice,465,annuel,52,7,4.6,Loisirs & Culture,0,3,0,1,16,0
+688,86,Masculin,Paris,1332,mensuel,18,1,3.8,Santé & Bien-être,1,4,1,3,44,5
+689,77,Masculin,Marseille,1054,mensuel,15,12,4.1,Aide Administrative,1,2,1,0,35,3
+690,80,Féminin,Bordeaux,647,mensuel,19,10,3.9,Aide Administrative,0,0,1,0,22,3
+691,74,Masculin,Paris,450,mensuel,24,8,4.7,Ménage,1,4,1,2,15,2
+692,86,Masculin,Lyon,1219,mensuel,10,5,3.7,Santé & Bien-être,1,1,1,3,41,5
+693,84,Féminin,Paris,1335,mensuel,5,13,3.3,Santé & Bien-être,0,4,1,3,44,4
+694,64,Féminin,Toulouse,549,mensuel,28,6,3.3,Loisirs & Culture,0,5,1,1,18,0
+695,77,Masculin,Bordeaux,209,mensuel,27,12,4.4,Aide Administrative,1,0,1,0,7,3
+696,79,Masculin,Lyon,397,annuel,2,8,4.2,Aide Administrative,1,1,0,0,13,3
+697,68,Féminin,Paris,1333,annuel,43,13,4.3,Loisirs & Culture,0,4,0,1,44,1
+698,77,Masculin,Paris,1202,annuel,22,6,4.7,Aide Administrative,1,4,0,0,40,3
+699,76,Féminin,Lyon,993,mensuel,37,4,4.9,Ménage,0,1,1,2,33,3
+700,84,Masculin,Toulouse,475,mensuel,16,12,4.0,Santé & Bien-être,1,5,1,3,16,4
+701,70,Féminin,Bordeaux,482,annuel,29,14,4.7,Ménage,0,0,0,2,16,1
+702,65,Féminin,Nice,1014,annuel,45,14,3.7,Loisirs & Culture,0,3,0,1,34,0
+703,81,Féminin,Paris,1054,mensuel,24,4,4.3,Aide Administrative,0,4,1,0,35,4
+704,79,Masculin,Nice,1183,mensuel,11,12,3.4,Aide Administrative,1,3,1,0,39,3
+705,70,Féminin,Paris,422,annuel,43,13,4.8,Loisirs & Culture,0,4,0,1,14,1
+706,73,Masculin,Lyon,413,mensuel,22,4,4.9,Ménage,1,1,1,2,14,2
+707,75,Féminin,Lyon,221,mensuel,23,3,4.1,Ménage,0,1,1,2,7,2
+708,69,Féminin,Bordeaux,512,mensuel,58,12,4.1,Loisirs & Culture,0,0,1,1,17,1
+709,91,Féminin,Paris,745,mensuel,5,12,4.2,Santé & Bien-être,0,4,1,3,25,5
+710,80,Masculin,Toulouse,190,mensuel,28,2,4.8,Aide Administrative,1,5,1,0,6,3
+711,71,Féminin,Lyon,1417,mensuel,34,7,4.3,Ménage,0,1,1,2,47,2
+712,76,Masculin,Lyon,897,annuel,22,3,4.1,Ménage,1,1,0,2,30,3
+713,78,Masculin,Bordeaux,483,mensuel,21,1,3.9,Ménage,1,0,1,2,16,3
+714,83,Féminin,Toulouse,1182,mensuel,23,10,3.3,Aide Administrative,0,5,1,0,39,4
+715,82,Féminin,Bordeaux,450,annuel,11,9,3.3,Santé & Bien-être,0,0,0,3,15,4
+716,81,Féminin,Paris,618,annuel,7,14,3.7,Santé & Bien-être,0,4,0,3,21,4
+717,85,Féminin,Bordeaux,318,mensuel,19,5,3.4,Santé & Bien-être,0,0,1,3,11,4
+718,75,Masculin,Nice,141,annuel,17,10,3.7,Aide Administrative,1,3,0,0,5,2
+719,86,Masculin,Paris,863,annuel,8,3,3.9,Santé & Bien-être,1,4,0,3,29,5
+720,80,Masculin,Marseille,1187,mensuel,21,4,3.4,Aide Administrative,1,2,1,0,40,3
+721,82,Féminin,Paris,99,annuel,11,6,4.9,Santé & Bien-être,0,4,0,3,3,4
+722,86,Féminin,Toulouse,722,mensuel,14,13,3.4,Aide Administrative,0,5,1,0,24,5
+723,83,Masculin,Lyon,868,mensuel,8,10,4.5,Santé & Bien-être,1,1,1,3,29,4
+724,78,Masculin,Paris,243,annuel,31,8,3.4,Aide Administrative,1,4,0,0,8,3
+725,66,Féminin,Lyon,906,annuel,44,9,3.6,Sport & Loisirs,0,1,0,4,30,1
+726,69,Féminin,Paris,52,annuel,60,7,4.2,Loisirs & Culture,0,4,0,1,2,1
+727,79,Féminin,Nice,418,mensuel,22,14,4.8,Aide Administrative,0,3,1,0,14,3
+728,66,Masculin,Toulouse,722,annuel,33,10,4.3,Sport & Loisirs,1,5,0,4,24,1
+729,76,Masculin,Toulouse,1161,mensuel,20,11,5.0,Ménage,1,5,1,2,39,3
+730,64,Féminin,Nice,932,annuel,63,13,3.5,Sport & Loisirs,0,3,0,4,31,0
+731,78,Féminin,Bordeaux,1417,annuel,29,13,3.7,Aide Administrative,0,0,0,0,47,3
+732,62,Masculin,Paris,691,annuel,57,8,5.0,Sport & Loisirs,1,4,0,4,23,0
+733,76,Féminin,Paris,708,annuel,14,7,4.1,Aide Administrative,0,4,0,0,24,3
+734,89,Masculin,Marseille,1373,annuel,18,9,4.0,Santé & Bien-être,1,2,0,3,46,5
+735,89,Féminin,Paris,484,mensuel,15,9,4.3,Santé & Bien-être,0,4,1,3,16,5
+736,83,Féminin,Paris,1059,annuel,8,13,4.4,Santé & Bien-être,0,4,0,3,35,4
+737,80,Masculin,Marseille,524,annuel,17,7,3.5,Aide Administrative,1,2,0,0,17,3
+738,64,Féminin,Marseille,604,annuel,60,9,3.8,Sport & Loisirs,0,2,0,4,20,0
+739,84,Féminin,Paris,919,mensuel,22,13,3.2,Aide Administrative,0,4,1,0,31,4
+740,66,Féminin,Paris,889,mensuel,45,2,3.4,Loisirs & Culture,0,4,1,1,30,1
+741,79,Féminin,Nice,1493,annuel,7,2,4.7,Aide Administrative,0,3,0,0,50,3
+742,81,Féminin,Bordeaux,1171,mensuel,27,10,4.9,Aide Administrative,0,0,1,0,39,4
+743,74,Féminin,Bordeaux,717,mensuel,21,12,4.6,Ménage,0,0,1,2,24,2
+744,85,Féminin,Marseille,949,annuel,27,2,4.2,Aide Administrative,0,2,0,0,32,4
+745,87,Féminin,Nice,972,mensuel,6,10,4.7,Santé & Bien-être,0,3,1,3,32,5
+746,67,Masculin,Marseille,102,mensuel,53,11,3.8,Loisirs & Culture,1,2,1,1,3,1
+747,73,Féminin,Nice,1194,annuel,26,7,4.3,Ménage,0,3,0,2,40,2
+748,74,Féminin,Lyon,396,annuel,20,5,3.2,Ménage,0,1,0,2,13,2
+749,88,Masculin,Paris,927,annuel,10,2,4.5,Santé & Bien-être,1,4,0,3,31,5
+750,68,Féminin,Lyon,1342,annuel,51,14,3.5,Loisirs & Culture,0,1,0,1,45,1
+751,63,Féminin,Paris,927,annuel,64,12,3.4,Sport & Loisirs,0,4,0,4,31,0
+752,84,Féminin,Paris,759,mensuel,6,13,4.3,Aide Administrative,0,4,1,0,25,4
+753,85,Féminin,Nice,1293,mensuel,10,8,4.8,Santé & Bien-être,0,3,1,3,43,4
+754,79,Masculin,Paris,641,mensuel,7,6,4.5,Aide Administrative,1,4,1,0,21,3
+755,83,Masculin,Paris,648,annuel,15,5,3.4,Aide Administrative,1,4,0,0,22,4
+756,78,Féminin,Marseille,629,annuel,27,13,4.6,Aide Administrative,0,2,0,0,21,3
+757,87,Masculin,Nice,485,mensuel,18,5,4.4,Aide Administrative,1,3,1,0,16,5
+758,77,Féminin,Lyon,1411,mensuel,17,3,4.1,Aide Administrative,0,1,1,0,47,3
+759,65,Masculin,Paris,546,annuel,65,1,3.4,Sport & Loisirs,1,4,0,4,18,0
+760,81,Féminin,Bordeaux,1447,mensuel,35,4,3.5,Aide Administrative,0,0,1,0,48,4
+761,78,Féminin,Nice,1362,annuel,7,14,4.7,Aide Administrative,0,3,0,0,45,3
+762,73,Féminin,Marseille,771,mensuel,41,4,4.2,Ménage,0,2,1,2,26,2
+763,77,Féminin,Bordeaux,687,mensuel,42,5,4.0,Ménage,0,0,1,2,23,3
+764,64,Masculin,Paris,41,mensuel,68,2,3.3,Sport & Loisirs,1,4,1,4,1,0
+765,64,Masculin,Paris,957,annuel,58,3,3.5,Sport & Loisirs,1,4,0,4,32,0
+766,67,Féminin,Toulouse,39,mensuel,77,9,4.7,Loisirs & Culture,0,5,1,1,1,1
+767,66,Féminin,Bordeaux,1450,annuel,61,13,4.3,Sport & Loisirs,0,0,0,4,48,1
+768,65,Masculin,Bordeaux,830,annuel,71,4,3.9,Sport & Loisirs,1,0,0,4,28,0
+769,82,Masculin,Paris,531,annuel,12,11,4.9,Santé & Bien-être,1,4,0,3,18,4
+770,66,Féminin,Lyon,974,annuel,65,12,4.0,Loisirs & Culture,0,1,0,1,32,1
+771,76,Masculin,Paris,578,mensuel,20,13,4.3,Ménage,1,4,1,2,19,3
+772,76,Masculin,Lyon,1432,annuel,33,4,5.0,Ménage,1,1,0,2,48,3
+773,64,Féminin,Paris,97,annuel,37,2,4.4,Loisirs & Culture,0,4,0,1,3,0
+774,79,Féminin,Paris,975,mensuel,31,13,4.8,Ménage,0,4,1,2,32,3
+775,83,Féminin,Lyon,1473,annuel,25,9,4.8,Aide Administrative,0,1,0,0,49,4
+776,72,Masculin,Toulouse,1371,mensuel,43,9,4.4,Ménage,1,5,1,2,46,2
+777,75,Féminin,Paris,228,mensuel,9,8,4.9,Aide Administrative,0,4,1,0,8,2
+778,77,Masculin,Bordeaux,151,annuel,41,8,3.8,Ménage,1,0,0,2,5,3
+779,60,Féminin,Paris,90,mensuel,45,12,4.0,Sport & Loisirs,0,4,1,4,3,0
+780,62,Féminin,Bordeaux,1312,annuel,48,9,4.8,Sport & Loisirs,0,0,0,4,44,0
+781,79,Féminin,Bordeaux,267,annuel,13,13,4.4,Ménage,0,0,0,2,9,3
+782,81,Masculin,Lyon,407,annuel,21,5,4.2,Aide Administrative,1,1,0,0,14,4
+783,65,Féminin,Toulouse,41,annuel,52,8,4.6,Sport & Loisirs,0,5,0,4,1,0
+784,88,Masculin,Lyon,1186,mensuel,13,1,3.7,Santé & Bien-être,1,1,1,3,40,5
+785,71,Masculin,Nice,647,mensuel,36,4,5.0,Ménage,1,3,1,2,22,2
+786,61,Masculin,Lyon,988,annuel,44,1,3.9,Sport & Loisirs,1,1,0,4,33,0
+787,64,Féminin,Toulouse,1393,annuel,69,11,3.8,Sport & Loisirs,0,5,0,4,46,0
+788,63,Féminin,Lyon,113,annuel,46,9,4.0,Sport & Loisirs,0,1,0,4,4,0
+789,62,Féminin,Paris,770,mensuel,66,14,4.7,Sport & Loisirs,0,4,1,4,26,0
+790,73,Masculin,Paris,926,mensuel,23,8,5.0,Ménage,1,4,1,2,31,2
+791,73,Féminin,Bordeaux,967,annuel,42,11,3.7,Ménage,0,0,0,2,32,2
+792,69,Féminin,Paris,374,annuel,53,1,4.3,Loisirs & Culture,0,4,0,1,12,1
+793,86,Masculin,Nice,867,mensuel,2,1,4.5,Santé & Bien-être,1,3,1,3,29,5
+794,65,Masculin,Toulouse,428,annuel,55,2,3.5,Loisirs & Culture,1,5,0,1,14,0
+795,85,Masculin,Paris,300,annuel,21,6,4.9,Santé & Bien-être,1,4,0,3,10,4
+796,62,Féminin,Paris,1072,annuel,80,12,4.9,Sport & Loisirs,0,4,0,4,36,0
+797,65,Masculin,Bordeaux,1396,annuel,50,8,3.2,Loisirs & Culture,1,0,0,1,47,0
+798,84,Féminin,Marseille,143,mensuel,10,3,3.6,Santé & Bien-être,0,2,1,3,5,4
+799,84,Féminin,Paris,1022,annuel,26,6,5.0,Aide Administrative,0,4,0,0,34,4
+800,81,Féminin,Nice,776,mensuel,12,6,4.5,Aide Administrative,0,3,1,0,26,4
+801,65,Masculin,Paris,470,mensuel,49,1,4.3,Loisirs & Culture,1,4,1,1,16,0
+802,77,Féminin,Nice,1249,mensuel,2,9,4.5,Aide Administrative,0,3,1,0,42,3
+803,69,Féminin,Paris,897,annuel,60,13,3.5,Loisirs & Culture,0,4,0,1,30,1
+804,77,Féminin,Paris,277,mensuel,11,10,4.3,Aide Administrative,0,4,1,0,9,3
+805,73,Féminin,Toulouse,878,annuel,36,8,3.9,Ménage,0,5,0,2,29,2
+806,75,Masculin,Paris,265,mensuel,28,8,3.6,Ménage,1,4,1,2,9,2
+807,84,Féminin,Paris,479,mensuel,8,11,4.0,Santé & Bien-être,0,4,1,3,16,4
+808,70,Féminin,Marseille,1307,mensuel,54,12,4.2,Loisirs & Culture,0,2,1,1,44,1
+809,66,Masculin,Toulouse,79,annuel,59,4,4.0,Loisirs & Culture,1,5,0,1,3,1
+810,62,Féminin,Paris,1397,annuel,57,13,3.5,Sport & Loisirs,0,4,0,4,47,0
+811,78,Féminin,Bordeaux,1092,mensuel,19,14,3.3,Aide Administrative,0,0,1,0,36,3
+812,83,Masculin,Paris,1017,mensuel,4,7,4.4,Aide Administrative,1,4,1,0,34,4
+813,72,Féminin,Nice,396,mensuel,26,13,4.1,Ménage,0,3,1,2,13,2
+814,78,Féminin,Paris,74,annuel,19,14,3.9,Aide Administrative,0,4,0,0,2,3
+815,76,Féminin,Paris,522,annuel,29,6,3.4,Ménage,0,4,0,2,17,3
+816,86,Féminin,Nice,452,annuel,4,5,5.0,Santé & Bien-être,0,3,0,3,15,5
+817,61,Féminin,Lyon,1362,annuel,50,4,4.6,Sport & Loisirs,0,1,0,4,45,0
+818,79,Masculin,Lyon,626,mensuel,22,8,4.2,Aide Administrative,1,1,1,0,21,3
+819,77,Masculin,Marseille,480,annuel,34,7,4.8,Ménage,1,2,0,2,16,3
+820,61,Féminin,Paris,373,annuel,53,6,3.2,Sport & Loisirs,0,4,0,4,12,0
+821,84,Masculin,Toulouse,1273,annuel,11,7,3.8,Santé & Bien-être,1,5,0,3,42,4
+822,83,Féminin,Toulouse,163,mensuel,13,7,4.3,Aide Administrative,0,5,1,0,5,4
+823,63,Féminin,Nice,555,annuel,58,7,4.2,Sport & Loisirs,0,3,0,4,18,0
+824,71,Masculin,Paris,331,mensuel,45,10,3.8,Loisirs & Culture,1,4,1,1,11,2
+825,61,Masculin,Toulouse,1446,annuel,47,7,3.7,Sport & Loisirs,1,5,0,4,48,0
+826,83,Féminin,Paris,716,mensuel,12,12,5.0,Santé & Bien-être,0,4,1,3,24,4
+827,73,Féminin,Nice,1046,annuel,15,14,3.4,Ménage,0,3,0,2,35,2
+828,77,Féminin,Lyon,700,annuel,23,13,3.4,Ménage,0,1,0,2,23,3
+829,71,Féminin,Paris,757,mensuel,24,4,4.0,Ménage,0,4,1,2,25,2
+830,73,Féminin,Paris,769,mensuel,13,8,5.0,Ménage,0,4,1,2,26,2
+831,62,Féminin,Bordeaux,940,annuel,65,7,4.6,Sport & Loisirs,0,0,0,4,31,0
+832,69,Féminin,Lyon,206,mensuel,42,8,4.9,Loisirs & Culture,0,1,1,1,7,1
+833,81,Masculin,Marseille,1449,mensuel,12,13,4.9,Aide Administrative,1,2,1,0,48,4
+834,76,Masculin,Bordeaux,355,annuel,26,5,4.4,Ménage,1,0,0,2,12,3
+835,79,Féminin,Paris,241,mensuel,12,2,3.7,Santé & Bien-être,0,4,1,3,8,3
+836,65,Féminin,Lyon,1460,annuel,53,13,3.9,Loisirs & Culture,0,1,0,1,49,0
+837,61,Féminin,Marseille,570,mensuel,62,7,3.7,Sport & Loisirs,0,2,1,4,19,0
+838,63,Féminin,Paris,334,annuel,36,13,4.6,Loisirs & Culture,0,4,0,1,11,0
+839,79,Masculin,Paris,976,annuel,16,5,4.4,Aide Administrative,1,4,0,0,33,3
+840,68,Masculin,Lyon,1029,mensuel,41,14,4.2,Ménage,1,1,1,2,34,1
+841,66,Masculin,Nice,717,mensuel,45,4,4.6,Loisirs & Culture,1,3,1,1,24,1
+842,63,Féminin,Marseille,582,annuel,66,8,4.9,Sport & Loisirs,0,2,0,4,19,0
+843,88,Masculin,Marseille,225,mensuel,16,2,4.9,Santé & Bien-être,1,2,1,3,8,5
+844,84,Féminin,Marseille,1100,annuel,5,11,3.6,Santé & Bien-être,0,2,0,3,37,4
+845,83,Féminin,Lyon,1124,mensuel,13,3,3.8,Aide Administrative,0,1,1,0,37,4
+846,84,Féminin,Marseille,884,mensuel,13,7,3.7,Santé & Bien-être,0,2,1,3,29,4
+847,72,Féminin,Toulouse,881,annuel,45,4,3.8,Ménage,0,5,0,2,29,2
+848,84,Masculin,Bordeaux,613,annuel,15,13,3.9,Santé & Bien-être,1,0,0,3,20,4
+849,76,Féminin,Marseille,1255,annuel,23,8,3.3,Ménage,0,2,0,2,42,3
+850,82,Masculin,Bordeaux,720,mensuel,13,5,4.2,Santé & Bien-être,1,0,1,3,24,4
+851,66,Masculin,Marseille,158,annuel,62,3,5.0,Loisirs & Culture,1,2,0,1,5,1
+852,83,Féminin,Nice,1046,annuel,19,7,3.3,Aide Administrative,0,3,0,0,35,4
+853,81,Féminin,Marseille,249,mensuel,17,1,4.2,Aide Administrative,0,2,1,0,8,4
+854,82,Féminin,Lyon,121,annuel,18,8,4.9,Aide Administrative,0,1,0,0,4,4
+855,66,Masculin,Bordeaux,1155,mensuel,43,6,4.0,Loisirs & Culture,1,0,1,1,38,1
+856,89,Féminin,Bordeaux,760,annuel,19,8,4.1,Santé & Bien-être,0,0,0,3,25,5
+857,80,Masculin,Marseille,1203,mensuel,21,4,3.6,Aide Administrative,1,2,1,0,40,3
+858,71,Masculin,Marseille,892,annuel,32,10,4.4,Ménage,1,2,0,2,30,2
+859,78,Féminin,Toulouse,432,mensuel,4,2,3.5,Aide Administrative,0,5,1,0,14,3
+860,75,Féminin,Lyon,83,mensuel,24,1,3.2,Ménage,0,1,1,2,3,2
+861,63,Féminin,Bordeaux,743,annuel,76,7,4.0,Sport & Loisirs,0,0,0,4,25,0
+862,73,Féminin,Nice,933,mensuel,7,14,4.5,Ménage,0,3,1,2,31,2
+863,84,Féminin,Toulouse,407,mensuel,15,11,4.3,Aide Administrative,0,5,1,0,14,4
+864,85,Masculin,Lyon,1283,mensuel,17,11,4.1,Santé & Bien-être,1,1,1,3,43,4
+865,88,Masculin,Paris,1151,annuel,6,6,5.0,Santé & Bien-être,1,4,0,3,38,5
+866,65,Masculin,Paris,792,annuel,27,11,4.5,Loisirs & Culture,1,4,0,1,26,0
+867,61,Masculin,Marseille,984,mensuel,52,10,4.1,Sport & Loisirs,1,2,1,4,33,0
+868,64,Féminin,Paris,151,mensuel,44,10,3.9,Loisirs & Culture,0,4,1,1,5,0
+869,75,Masculin,Lyon,1198,mensuel,17,10,4.7,Ménage,1,1,1,2,40,2
+870,63,Masculin,Paris,1289,mensuel,72,9,3.6,Sport & Loisirs,1,4,1,4,43,0
+871,67,Féminin,Marseille,240,annuel,46,9,4.0,Loisirs & Culture,0,2,0,1,8,1
+872,70,Féminin,Lyon,334,annuel,39,3,3.6,Loisirs & Culture,0,1,0,1,11,1
+873,68,Féminin,Paris,72,annuel,29,8,4.6,Ménage,0,4,0,2,2,1
+874,85,Féminin,Bordeaux,239,mensuel,6,13,4.6,Santé & Bien-être,0,0,1,3,8,4
+875,74,Masculin,Toulouse,1479,annuel,57,12,4.7,Ménage,1,5,0,2,49,2
+876,75,Féminin,Marseille,922,annuel,31,10,4.6,Ménage,0,2,0,2,31,2
+877,75,Féminin,Paris,1066,mensuel,19,13,3.9,Ménage,0,4,1,2,36,2
+878,85,Masculin,Paris,1070,annuel,5,8,3.8,Santé & Bien-être,1,4,0,3,36,4
+879,68,Féminin,Marseille,1433,annuel,29,7,4.1,Loisirs & Culture,0,2,0,1,48,1
+880,79,Féminin,Nice,223,annuel,21,4,4.1,Aide Administrative,0,3,0,0,7,3
+881,62,Féminin,Paris,1069,annuel,59,7,4.2,Sport & Loisirs,0,4,0,4,36,0
+882,78,Masculin,Marseille,1463,mensuel,16,13,3.8,Aide Administrative,1,2,1,0,49,3
+883,84,Féminin,Marseille,597,mensuel,14,9,3.5,Santé & Bien-être,0,2,1,3,20,4
+884,60,Féminin,Marseille,44,annuel,64,5,4.1,Sport & Loisirs,0,2,0,4,1,0
+885,74,Féminin,Paris,250,mensuel,43,3,4.3,Ménage,0,4,1,2,8,2
+886,64,Masculin,Lyon,104,annuel,57,6,5.0,Sport & Loisirs,1,1,0,4,3,0
+887,69,Féminin,Toulouse,482,mensuel,26,10,4.1,Ménage,0,5,1,2,16,1
+888,65,Masculin,Paris,217,annuel,48,2,3.2,Loisirs & Culture,1,4,0,1,7,0
+889,67,Féminin,Paris,435,annuel,48,6,4.2,Loisirs & Culture,0,4,0,1,14,1
+890,75,Féminin,Marseille,214,annuel,26,3,4.9,Ménage,0,2,0,2,7,2
+891,60,Féminin,Bordeaux,1431,annuel,63,5,3.2,Sport & Loisirs,0,0,0,4,48,0
+892,84,Féminin,Paris,257,annuel,6,14,3.6,Aide Administrative,0,4,0,0,9,4
+893,61,Féminin,Lyon,913,annuel,65,6,4.2,Sport & Loisirs,0,1,0,4,30,0
+894,81,Masculin,Nice,207,mensuel,13,12,5.0,Aide Administrative,1,3,1,0,7,4
+895,65,Féminin,Marseille,792,annuel,58,7,4.6,Sport & Loisirs,0,2,0,4,26,0
+896,61,Féminin,Toulouse,415,annuel,60,11,4.5,Sport & Loisirs,0,5,0,4,14,0
+897,64,Féminin,Toulouse,1231,mensuel,49,5,4.9,Loisirs & Culture,0,5,1,1,41,0
+898,84,Masculin,Paris,1323,annuel,14,11,3.3,Santé & Bien-être,1,4,0,3,44,4
+899,76,Féminin,Nice,1393,annuel,33,4,3.9,Ménage,0,3,0,2,46,3
+900,63,Féminin,Nice,385,annuel,58,5,4.9,Sport & Loisirs,0,3,0,4,13,0
