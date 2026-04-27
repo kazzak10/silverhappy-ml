@@ -21,9 +21,9 @@ Silver Happy est une plateforme de services à la personne dédiée aux seniors 
 
 ## Résultats clés
 
-| Modèle | Accuracy Test | CV 5-folds |
-|--------|--------------|------------|
-| Random Forest (300 estimateurs) | **82.2%** | **81.2% ± 3.4%** |
+| Modèle                          | Accuracy Test | CV 5-folds       |
+| ------------------------------- | ------------- | ---------------- |
+| Random Forest (300 estimateurs) | **82.2%**     | **81.2% ± 3.4%** |
 
 **Feature la plus déterminante : `age_senior`** (importance Gini ~33%)
 
@@ -36,19 +36,13 @@ Insight métier : Les seniors de 60-65 ans plébiscitent Sport & Loisirs, les 80
 ```
 silverhappy-ml/
 ├── notebooks/
-│   ├── 01_reporting.ipynb         # EDA, dashboards, KPI
-│   └── 02_ml_classification.ipynb # Pipeline ML complet
+│   ├── 01_reporting.ipynb
+│   └── 02_ml_classification.ipynb
 ├── data/
-│   ├── dataset_silverhappy.csv    # Dataset reporting (500 interventions)
-│   └── dataset_silverhappy_v2.csv # Dataset ML (900 profils seniors)
+│   ├── dataset_silverhappy.csv
+│   └── dataset_silverhappy_v2.csv
 ├── outputs/
-│   ├── A1_demographics.png
-│   ├── A2_abonnements.png
-│   ├── A3_engagement.png
-│   ├── B1_kpi_services.png
-│   ├── B2_evolution.png
-│   ├── B3_conversion.png
-│   ├── EDA_demographics.png
+│   ├── ML_scores_par_classe.png
 │   ├── ML_confusion_matrix.png
 │   └── ML_feature_importance.png
 ├── requirements.txt
@@ -81,12 +75,12 @@ silverhappy-ml/
 
 ## Stack technique
 
-| Domaine | Outils |
-|---------|--------|
-| Manipulation données | Pandas, NumPy |
-| Visualisation | Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn (RandomForest, StratifiedKFold, LabelEncoder) |
-| Environnement | Python 3.10+, Jupyter Notebook |
+| Domaine              | Outils                                                     |
+| -------------------- | ---------------------------------------------------------- |
+| Manipulation données | Pandas, NumPy                                              |
+| Visualisation        | Matplotlib, Seaborn                                        |
+| Machine Learning     | Scikit-learn (RandomForest, StratifiedKFold, LabelEncoder) |
+| Environnement        | Python 3.10+, Jupyter Notebook                             |
 
 ---
 
